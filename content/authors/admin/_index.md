@@ -55,17 +55,17 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Yuzhen_Lu
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yuzhen-lu-874a2294/
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/yuzhen-lu-874a2294/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  #link: files/cv.pdf
+# - icon: cv
+#  icon_pack: ai
+#  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
