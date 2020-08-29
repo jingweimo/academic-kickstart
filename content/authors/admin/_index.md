@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yuzhen Lu
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: North Carolina State University
+  url: "https://www.bae.ncsu.edu/people/ylu52/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include optical sensing, machine vision, precision agriculture, food assessment and data analytics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optical Sensing
+- Machine Vision
+- Food Inspection
+- Precision Agriculture
+- Plant Phenotyping
+- Data Analytics 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biosystems Engineering
+    institution: Michigan State University
+    year: 2018
+  - course: MS in Plant Nutrition
+    institution: Insitute of Soil Sicence, Chinese Academy of Sciences
+    year: 2014
+  - course: BS in Facility Agriculture Science and Engineering
+    institution: Northwest A&F University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +47,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ylu52@ncsu.edu'  # For a direct email link, use "mailto:ylu52@ncsu.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/jingweimo89
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/yuzhen-lu-874a2294/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yuzhen Lu is a postdoctoral research scholar in the DAISy lab (https://thedaisylab.com/) at NC State University. Before this position, Dr. Lu worked a research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. Currently his research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. Dr. Lu has a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
