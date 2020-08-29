@@ -12,4 +12,13 @@ view: 4
 header:
   caption: ""
   image: ""
+  
+title: "Hyperspectral imaging technology for quality and safety evaluation of horticultural products: A review and celebration of the past 20-year progress"
+authors: ["Y Lu", "W Saeys", "M Kim", "Y Peng", "R Lu"]
+publication_types: ["1"]
+abstract: "In the past 20 years, hyperspectral imaging has been widely investigated as an emerging, promising technology for evaluating quality and safety of horticultural products. This technology has originated from remote sensing and joins the domains of machine vision and point spectroscopy to provide superior image segmentation for the detection of defects and contaminations, and to map the chemical composition. Thanks to the advancements in instrumentation and data analysis in the past two decades, hyperspectral imaging technology has evolved into a powerful nondestructive inspection tool and the scope of applications in postharvest quality and safety evaluation has expanded tremendously. In this article, different imaging modes (reflectance, transmittance, fluorescence and Raman) and their combinations, and the potential for real-time acquisition of hyperspectral images at industry relevant speeds are first discussed in terms of their advantages and disadvantages. Next reviewed are different data processing/analysis methods and associated steps from data pre-processing over the spectral and spatial domains to the actual model building and performance evaluation. An overview is then given of hyperspectral imaging applications for external quality and defect evaluation, internal quality and maturity assessment, and food safety detection of horticultural products. Finally, a brief discussion is presented on the challenges and opportunities in future development and application of hyperspectral imaging technology in food quality and safety evaluation of horticultural products"
+featured: false
+publication: "*Postharvest Biology and Technology*"
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0925521420308905"
+doi: "10.1016/j.postharvbio.2020.111318"
 ---
