@@ -37,7 +37,7 @@ height = "500px"
 [[item]]
   # title = "Infield Sorting Demo"
   content = "Infield Sorting Demo"
-  align = "left"
+  align = "right"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "Infield2019_2.jpg"  # Image path relative to your `static/media/` folder.
