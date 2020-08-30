@@ -1,6 +1,11 @@
 ---
 title: "Hyperspectral imaging technology for quality and safety evaluation of horticultural products: A review and celebration of the past 20-year progress"
-authors: ["Y Lu", "W Saeys", "M Kim", 'Y Peng", "R Lu"]
+authors: 
+- Y. Lu
+- W. saeys
+- M. Kim
+- Y. Peng
+- R. Lu
 date: "2020-08-26"
 doi: "10.1016/j.postharvbio.2020.111318"
 
