@@ -18,7 +18,7 @@ height = "500px"
 [[item]]
   # title = "Infield Sorting Demo"
   content = "Infield Sorting Demo"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
