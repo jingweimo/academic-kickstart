@@ -42,4 +42,12 @@ height = "500px"
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "Infield2019_2.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+  [[item]]
+  content = "North Michigan"
+  align = "center"
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "Trip2NM.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
