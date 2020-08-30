@@ -45,7 +45,7 @@ height = "500px"
   
   [[item]]
   content = "North Michigan"
-  align = "center"
+  align = "left"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "Trip2NM.jpg"  # Image path relative to your `static/media/` folder.
