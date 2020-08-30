@@ -35,8 +35,8 @@ abstract: In the past 20 years, hyperspectral imaging has been widely investigat
 # featured: false
 
 # links:
-- name: ""
-   url: "https://www.sciencedirect.com/science/article/abs/pii/S0925521420308905"
+# - name: ""
+   # url: "https://www.sciencedirect.com/science/article/abs/pii/S0925521420308905"
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
