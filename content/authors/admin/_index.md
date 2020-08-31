@@ -73,8 +73,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
+# - Visitors
 ---
 
 Yuzhen Lu is a postdoctoral research scholar in the DAISy lab (https://thedaisylab.com/) at NC State University. Before this position, Dr. Lu worked a research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. Currently his research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. Dr. Lu has a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
