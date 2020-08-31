@@ -24,12 +24,12 @@
   url = "#publications"
   weight = 40
 
-[[Teaching]]
+[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 50
   
-[[Gallery]]
+[[main]]
   name = "Gallery"
   url = "#slider"
   weight = 60
