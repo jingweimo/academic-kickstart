@@ -5,7 +5,7 @@ authors:
 - C. Igathinathane
 - J. Li
 - H. Cen
-- Y. Lu
+- **Y. Lu**
 - P. Flores
 date: "2020-07-8"
 doi: "10.1016/j.compag.2020.105606"
