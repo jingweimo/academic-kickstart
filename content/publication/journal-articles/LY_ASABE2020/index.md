@@ -3,7 +3,7 @@ title: "siritool: A Matlab Graphical User Interface for Image Analysis in Struct
 authors: 
 - Y. Lu
 - R. Lu
-date: "2020-08-26"
+date: "2020-08-21"
 doi: "10.13031/trans.13612"
 
 # Schedule page publish date (NOT publication's date).
