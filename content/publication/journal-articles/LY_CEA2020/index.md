@@ -1,6 +1,6 @@
 ---
 title: "A Survey of Public Datasets for Computer Vision Tasks in Precision Agriculture"
-authors: ["<b>Y. Lu</b>", "S. Young"]
+authors: ["Yuzhen Lu", "S. Young"]
 date: "2020-08-31"
 # doi: " "
 
