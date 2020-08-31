@@ -1,13 +1,13 @@
 ---
 title: "Hyperspectral Imaging-Enabled High-Throughput Screening of Loblolly Pine (Pinus taeda) Seedlings for Freeze Tolerance"
 authors: 
--Y. Lu 
--K.G. Payn 
--P. Pandey
--J.J. Acosta
--A.J. Heine 
--T.D. Walker
--S. Young
+- Y. Lu 
+- K.G. Payn 
+- P. Pandey
+- J.J. Acosta
+- A.J. Heine 
+- T.D. Walker
+- S. Young
 date: "2020-08-26"
 doi: "10.13031/aim.202001072"
 
