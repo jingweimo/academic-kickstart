@@ -4,7 +4,7 @@ authors:
 - Y. Lu
 - R. Lu
 date: "2020-08-26"
- doi: "10.1016/j.compag.2019.105145"
+doi: "10.1016/j.compag.2019.105145"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-31T00:00:00Z"
