@@ -3,7 +3,7 @@ title: "A Survey of Public Datasets for Computer Vision Tasks in Precision Agric
 authors: 
 - Y. Lu
 - S. Young
-date: "2020-08-26"
+date: "2020-08-31"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
