@@ -2,7 +2,7 @@
 title: "Hyperspectral imaging technology for quality and safety evaluation of horticultural products: A review and celebration of the past 20-year progress"
 authors: 
 - Y. Lu
-- W. saeys
+- W. Saeys
 - M. Kim
 - Y. Peng
 - R. Lu
