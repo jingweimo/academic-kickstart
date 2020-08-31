@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  ulr = "#people"
+  name = "Team"
+  ulr = "#team"
   weight = 20
   
 [[main]]
