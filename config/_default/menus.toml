@@ -9,10 +9,10 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "People"
+  ulr = "#people"
   weight = 20
-
+  
 [[main]]
   name = "Projects"
   url = "#projects"
@@ -27,7 +27,13 @@
 [[Gallery]]
   name = "Gallery"
   url = "#slider"
+  weight = 50
+  
+[[main]]
+  name = "News"
+  url = "#News"
   weight = 60
+
   
 #[[main]]
 #  name = "Contact"
