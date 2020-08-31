@@ -10,7 +10,7 @@ date: "2020-08-26"
 doi: "10.1016/j.postharvbio.2020.111318"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-29T00:00:00Z"
+publishDate: "2020-08-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
