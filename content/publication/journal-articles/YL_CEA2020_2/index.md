@@ -1,4 +1,5 @@
 ---
+title: "Enhancing chlorophyll fluorescence imaging under structured illumination with automatic vignetting correction for detection of chilling injury in cucumbers"
 authors: 
 - Y. Lu
 - R. Lu
