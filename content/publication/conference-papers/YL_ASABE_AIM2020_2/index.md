@@ -3,7 +3,7 @@ title: "High Throughput Phenotyping for Fusiform Rust Disease Resistance in Lobl
 authors: 
 - P. Pandey
 - K.G. Payn 
-- Y. L.
+- Y. Lu.
 - A.J. Heine 
 - T.D. Walker
 - S. Young
