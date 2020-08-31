@@ -8,7 +8,7 @@ authors:
 - A.J. Heine 
 - T.D. Walker
 - S. Young
-date: "2020-08-26"
+date: "2020-07-14"
 doi: "10.13031/aim.202001072"
 
 # Schedule page publish date (NOT publication's date).
