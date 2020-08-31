@@ -1,11 +1,10 @@
 ---
 # Display name
-name: Yuzhen Lu
-# title: Y. Lu
+title: Yuzhen Lu
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Y. Lu
 
 # Is this the primary user of the site?
 superuser: true
