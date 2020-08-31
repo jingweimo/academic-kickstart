@@ -3,7 +3,7 @@ title: "Enhancing chlorophyll fluorescence imaging under structured illumination
 authors: 
 - Y. Lu
 - R. Lu
-date: "2020"
+date: "2020-01-01"
 doi: "10.1016/j.compag.2019.105145"
 
 # Schedule page publish date (NOT publication's date).
