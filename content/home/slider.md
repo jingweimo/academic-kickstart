@@ -17,7 +17,7 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   # title = "Infield Sorting Demo"
-  content = "Infield Sorting Demo"
+  content = "2019 Infield Sorting Demo in Grand Rapids, MI"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = "600px"
 
 [[item]]
   # title = "Infield Sorting Demo"
-  content = "Infield Sorting Demo"
+  content = "2019 Infield Sorting Demo in Grand Rapids, MI"
   align = "right"
 
   overlay_color = "#666"  # An HTML color value.
