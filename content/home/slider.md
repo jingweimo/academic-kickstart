@@ -45,8 +45,8 @@ height = "600px"
   
  [[item]]
   # title = "Infield Sorting Demo"
-  content = "Superior Paper Award Ceremony in 2018 ASABE-AIM"
-  align = "right"
+  content = "ASABE 2018AIM"
+  align = "center"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "2018ASABE_Award.jpg"  # Image path relative to your `static/media/` folder.
