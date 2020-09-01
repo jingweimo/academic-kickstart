@@ -49,7 +49,7 @@ height = "600px"
   align = "right"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "ASABE2018.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "2018ASABE_Award.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
   [[item]]
