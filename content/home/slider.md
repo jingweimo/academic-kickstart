@@ -53,7 +53,7 @@ height = "600px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
   [[item]]
-  content = "Hyperspectral Phenotyping of Loblolly Pine"
+  content = "Hyperspectral Phenotyping of Loblolly Pine Seedlings"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
