@@ -45,7 +45,7 @@ height = "600px"
   
  [[item]]
   # title = "Infield Sorting Demo"
-  content = "ASABE 2018AIM"
+  content = "2018 ASABE-AIM in Detroit, MI"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
