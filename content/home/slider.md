@@ -57,6 +57,6 @@ height = "600px"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "PinePhenotyping.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "LoblollyPinePhenotyping.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 +++
