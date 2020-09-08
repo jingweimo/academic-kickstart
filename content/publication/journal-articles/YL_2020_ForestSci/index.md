@@ -23,7 +23,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: "Forest Science (in preparation)*"
 
-# abstract: 
+abstract: 
 # links:
 # url_pdf: 
 ---
