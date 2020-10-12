@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-I am looking for a MS-level graduate stduent to start in Spring 2021 (late start may be possible) in the Department of Agricultural and Biological Engineering at Mississippi State University. The student will be expected to conduct original resesarch on nondestructive sensing for crops and agricultural/food products. Applicants with backgrounds in agricultural engineeering, electrinicl engineering, computer vision or mathematical modeling are highly welcome. Please email me (ylu52@ncsu.edu) if you are interested.
+I am looking for a MS-level graduate stduent to start in Spring 2021 (late start may be possible) in the Department of Agricultural and Biological Engineering at Mississippi State University. The student will be expected to conduct original resesarch on nondestructive sensing for crops and agricultural/food products. Applicants with backgrounds in agricultural engineeering, electrical engineering, computer vision or mathematical modeling are highly welcome. Please email me (ylu52@ncsu.edu) if you are interested.
