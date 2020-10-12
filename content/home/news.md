@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Openings"
-# subtitle = "Please stay tuned!"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
