@@ -30,15 +30,15 @@
   weight = 50
   
 [[main]]
-  name = "Gallery"
-  url = "#slider"
-  weight = 60
-  
-[[main]]
   name = "Openings"
   url = "#news"
+  weight = 60 
+  
+[[main]]
+  name = "Gallery"
+  url = "#slider"
   weight = 70
-
+  
   
 #[[main]]
 #  name = "Contact"
