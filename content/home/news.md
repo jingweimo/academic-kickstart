@@ -8,7 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Openings"
-subtitle = "Please stay tuned!"
+# subtitle = "Please stay tuned!"
+description: I am looking for a MS-level graduate stduent to start in Spring 2021 (late start may be possible) in the Department of Agricultural and Biological Engineering at Mississippi State University. The student will be expected to conduct original resesarch on nondestructive sensing for crops and agricultural/food products. Please email me (ylu52@ncsu.edu) if you are interested.
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
