@@ -48,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ylu52@ncsu.edu'  # For a direct email link, use "mailto:ylu52@ncsu.edu".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jingweimo89
+  link: 'mailto:luyuzhen@msu.edu'  # For a direct email link, use "mailto:ylu52@ncsu.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yuzhen_Lu
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jingweimo89
 # - icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/yuzhen-lu-874a2294/
@@ -78,4 +78,6 @@ user_groups:
 # - Visitors
 ---
 
-I am an Assistant Professor in the Department of Agricultural and Biological Engineering at Mississippi State University. I was a postdoctoral research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. My current research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. I have a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
+I am an Assistant Professor in the Department of Agricultural and Biological Engineering at Mississippi State University. My research resolves around the development and deployment of nondestructive sensing (e.g., optical imaging and spectroscopy) and automation technology for addressing the pressing problems in the agricultural and food domain. I worked for more than 5 years for USDA-ARS at East Lansing, Michigan, focusing on the development optical imaging for qualty evaluation of horticultural products, and apple harvest-assist and in-field sorting technology, and later worked for about 1 year at NCSU on hyperspectral imaging based high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding and other precision agriculture research. 
+
+I have a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
