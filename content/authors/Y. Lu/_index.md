@@ -11,12 +11,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Scholar
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: North Carolina State University
-  url: "https://www.bae.ncsu.edu/people/ylu52/"
+- name: Mississippi State University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optical sensing, machine vision, precision agriculture, food assessment and data analytics.
@@ -78,4 +78,4 @@ user_groups:
 # - Visitors
 ---
 
-I am currently a postdoctoral research scholar in the DAISy lab (https://thedaisylab.com/) at NC State University, and will join as an Assisstant Professor the Department of Agricultural and Biological Engineering at Mississippi State University in November, 2020. I was a research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. My current research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. I have a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
+I am an Assistant Professor in the Department of Agricultural and Biological Engineering at Mississippi State University. I was a postdoctoral research associate for USDA-ARS on nondestructive postharvest sensing and quality evaluation of horticultural production, and apple harvest-assist and in-field sorting technology development. My current research is multi-faceted, involving hyperspectral imaging technology for high-throughput plant phenotyping, public database creation and algorithm development for robotic weeding, and ground/drone based spectral imaging for precision agriculture applications. I have a philosophical vision of multi-disciplinary systems approaches in agricultural sciences and engineering, and embraces collaborating with professionals of diverse disciplines.
