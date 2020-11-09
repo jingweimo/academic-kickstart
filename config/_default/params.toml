@@ -113,7 +113,7 @@ address = {street = "250 Agricultural and Biological Engineering, Mississippi St
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "yl747@msstate.edu, luyuzhen@msu.edu"},
-  {icon = "phone", icon_pack = "fas", name = "662-325-3282"},
+  {icon = "phone", icon_pack = "fas", name = "662-325-7345"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jingweimo89"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
