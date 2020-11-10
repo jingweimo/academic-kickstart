@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "Please stay tuned!"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -65,3 +65,6 @@ subtitle = "Please stay tuned!"
  # CSS class.
  css_class = ""
 +++
+
+2021 Spring: ABE 4423 Bioinstrum II (co-instructed)
+2021 Fall: Problem Solving with Python (to be developed)
