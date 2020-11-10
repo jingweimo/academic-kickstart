@@ -1,5 +1,5 @@
 ---
-title: "Rapid Assessment of Freeze-Induced Mortality of Loblolly Pine Seedlings Using Hyperspectral Imaging Technology"
+title: "Prediction of Freeze Damage and Minimum Winter Temperature of the Seed Source of Loblolly Pine Seedlings Using Hyperspectral Imaging"
 authors: 
 - Y. Lu 
 - T.D. Walker
