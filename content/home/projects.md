@@ -75,4 +75,4 @@ subtitle = "Please stay tuned!"
  css_class = ""
 +++
 
-1. A large-scale public image database of cotton weeds for machine vision based robotic weeding, $46,015 (funded by Cotton Inc., Cary, NC)
+1. A large-scale public image database of cotton weeds for machine vision based robotic weeding ($46,015 for 2020, funded by Cotton Inc., Cary, NC)
