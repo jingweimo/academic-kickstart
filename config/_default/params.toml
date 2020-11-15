@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "150 J. Charles Lee Agricultural & Biological Engineering Building", city = "Mississippi State", region = "MS", postcode = "39762", country = "United States", country_code = "US"}
+address = {street = "250 J. Charles Lee Agricultural & Biological Engineering Building", city = "Mississippi State", region = "MS", postcode = "39762", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
