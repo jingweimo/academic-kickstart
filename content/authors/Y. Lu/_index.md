@@ -35,7 +35,7 @@ education:
     institution: Michigan State University
     year: 2018
   - course: MS in Plant Nutrition
-    institution: Insitute of Soil Sicence, Chinese Academy of Sciences
+    institution: University of Chinese Academy of Sciences
     year: 2014
   - course: BS in Facility Agriculture Science and Engineering
     institution: Northwest A&F University
