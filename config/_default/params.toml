@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "250 Agricultural and Biological Engineering, Mississippi State University", city = "Starkville", region = "MS", postcode = "39759", country = "United States", country_code = "US"}
+address = {street = "150 J. Charles Lee Agricultural & Biological Engineering Building", city = "Mississippi State", region = "MS", postcode = "39762", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "33.453074", longitude = "-88.792933"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
