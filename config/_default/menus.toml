@@ -33,17 +33,22 @@
   name = "Openings"
   url = "#news"
   weight = 60 
+
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 70 
   
 [[main]]
   name = "Gallery"
   url = "#slider"
-  weight = 70
+  weight = 80
   
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 
 # Link to a PDF of your resume/CV from the menu.
