@@ -26,8 +26,8 @@ interests:
 - Machine Vision
 - Food Inspection
 - Precision Agriculture
-- Plant Phenotyping
-- Data Analytics 
+- High-throughput Phenotyping
+- AI & Robotics
 
 education:
   courses:
