@@ -1,9 +1,9 @@
 ---
 title: 11/2020, Dr. Lu joined the Mississippi State University as an Assistant Professor 👋 👋
-subtitle: 
+subtitle: Dr. Lu joined the Mississippi State University as an Assistant Professor
 
 # Summary for listings and search engines
-summary: 
+summary: Dr. Lu joined the Mississippi State University as an Assistant Professor
 
 # Link this post with a project
 projects: []
