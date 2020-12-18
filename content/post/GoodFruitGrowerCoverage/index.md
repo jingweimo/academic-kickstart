@@ -1,5 +1,5 @@
 ---
-title: 01/2020, Our apple harvest-assisted and infield sorting machine was reported by the Good Fruit Grower magzine
+title: 01/2020, Our apple harvest-assisted and infield sorting machine was reported by the Good Fruit Grower magazine
 subtitle: 
 
 # Summary for listings and search engines
