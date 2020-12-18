@@ -1,6 +1,6 @@
 ---
 title: 01/2020, Our apple harvest-assisted and infield sorting machine was reported by the Good Fruit Grower magazine
-subtitle: 
+subtitle: Harvester makes sort work in the orchard https://www.goodfruit.com/harvester-makes-sort-work-in-the-orchard/ 
 
 # Summary for listings and search engines
 summary: 
