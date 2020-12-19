@@ -19,7 +19,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Postharvet Biology and Technology (under review)*"
 
-abstract: Infield pre-sorting is intended to remove processing (inferior) fruit that are not suitable
+abstract: "Infield pre-sorting is intended to remove processing (inferior) fruit that are not suitable
 for the fresh market, so that growers could handle sorted apples differentially in
 postharvest storage and packing to achieve cost savings. To achieve this goal, we
 developed an apple infield grading and sorting system, in which fruit singulation,
@@ -36,7 +36,7 @@ grading, respectively. The system achieved above 99% sorting accuracy for the
 system throughputs of 7.5, 9.0, and 10.5 fruit s-1, while 100% of sorted apples were
 graded Extra Fancy and 55% or higher of the apples incurred no bruising damage at all
 after grading and sorting. The developed infield grading and sorting system is compact
-and robust in performance, and it can meet commercial infield sorting needs.
+and robust in performance, and it can meet commercial infield sorting needs."
 
 # links:
 url_pdf: 
