@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-1. A large-scale public image database of cotton weeds for machine vision based robotic weeding ($46,015 for 2020, funded by Cotton Inc., Cary, NC)
+# 1. A large-scale public image database of cotton weeds for machine vision based robotic weeding ($46,015 for 2020, funded by Cotton Inc., Cary, NC)
