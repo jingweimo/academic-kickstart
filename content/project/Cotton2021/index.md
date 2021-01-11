@@ -1,5 +1,5 @@
 ---
-title: A large-scale public image database of cotton weeds for machine vision based robotic weeding ($46,015 for 2020, funded by Cotton Inc., Cary, NC)
+title: Cotton weed database development and machine learning model benchmarking ($30,078 for 2021, funded by Cotton Inc., Cary, NC)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
