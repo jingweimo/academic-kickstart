@@ -1,5 +1,5 @@
 ---
-title: Cotton weed database development and machine learning model benchmarking ($30,078 for 2021, funded by Cotton Inc., Cary, NC)
+title: Cotton weed database development and machine learning model benchmarking ($30,000 for 2021, funded by Cotton Inc., Cary, NC)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
