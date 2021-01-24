@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: Yuzhen Lu
+title: Yuzhen Lu
 name: Yuzhen Lu （陆宇振）
 
 # Username (this should match the folder name)
