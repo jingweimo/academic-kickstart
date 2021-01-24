@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Yuzhen Lu
-name: Yuzhen Lu （陆宇振）
+title: Y. Lu
+# name: Yuzhen Lu （陆宇振）
 
 # Username (this should match the folder name)
 authors:
@@ -16,7 +16,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Mississippi State University
-  url: ""
+  url: "https://www.msstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optical sensing, machine vision, precision agriculture, food assessment and data analytics.
