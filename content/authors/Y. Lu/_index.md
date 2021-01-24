@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Yuzhen Lu, Assistant Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
