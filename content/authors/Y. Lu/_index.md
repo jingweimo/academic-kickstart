@@ -13,7 +13,7 @@ superuser: true
 # Role/position
 role: 
 - name: Assistant Professor
-  url: "https://www.abe.msstate.edu/people/faculty/#"
+  url: "https://www.abe.msstate.edu/people/faculty/"
 
 # Organizations/Affiliations
 organizations:
