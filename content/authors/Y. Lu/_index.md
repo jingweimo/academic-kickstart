@@ -11,7 +11,9 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: 
+- name: Assistant Professor
+  url: "https://www.abe.msstate.edu/people/faculty/#"
 
 # Organizations/Affiliations
 organizations:
