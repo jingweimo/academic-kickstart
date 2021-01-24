@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Y. Lu
+title: Yuzhen Lu
 # name: Yuzhen Lu （陆宇振）
 
 # Username (this should match the folder name)
@@ -12,7 +12,7 @@ superuser: true
 
 # Role/position
 role: Assistant Professor
-url: "https://www.abe.msstate.edu/people/faculty/"
+# url: "https://www.abe.msstate.edu/people/faculty/"
 
 # Organizations/Affiliations
 organizations:
