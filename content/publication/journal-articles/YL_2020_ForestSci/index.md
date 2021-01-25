@@ -21,7 +21,7 @@ publishDate: "2020-01-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forest Science (under review)*"
+publication: "*Forest Science (acceptance pending)*"
 
 abstract: 
 # links:
