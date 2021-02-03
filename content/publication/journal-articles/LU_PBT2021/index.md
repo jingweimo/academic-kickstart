@@ -5,7 +5,7 @@ authors:
 - R. Lu
 - Z. Zhang
 date: "2021-02-04"
-doi: ""
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-04T00:00:00Z"
@@ -17,9 +17,9 @@ publishDate: "2021-02-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Postharvest Biology and Technology (ready for submission)"
+publication: "Postharvest Biology and Technology (ready for submission)"
 
 abstract: 
 # links:
-url_pdf: 
+# url_pdf: 
 ---
