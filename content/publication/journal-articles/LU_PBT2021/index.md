@@ -2,10 +2,8 @@
 title: "Detection of subsurface bruising in fresh pickling cucumbers using structured-illumination reflectance imagings"
 authors: 
 - Y. Lu
-- W. Saeys
-- M. Kim
-- Y. Peng
 - R. Lu
+- Z. Zhang
 date: ""
 doi: ""
 
