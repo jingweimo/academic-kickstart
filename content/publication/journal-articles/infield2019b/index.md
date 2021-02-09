@@ -17,7 +17,7 @@ publishDate: "2021-01-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions of the ASABE (in preparation)*"
+publication: "*Appled Engineering in Agriculture (submitted to journal)*"
 
 abstract: .
 
