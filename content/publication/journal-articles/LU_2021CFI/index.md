@@ -1,5 +1,5 @@
 ---
-title: "Dual-band Chlorophyll Fluorescence Imaging for Non-destructive Dedetection of Chilling Injury in Pickling Cucumbers"
+title: "Dual-band Chlorophyll Fluorescence Imaging for Non-destructive Detection of Chilling Injury in Pickling Cucumbers"
 authors: 
 - Y. Lu
 - R. Lu
