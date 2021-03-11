@@ -38,7 +38,7 @@ education:
   - course: MS in Plant Nutrition
     institution: University of Chinese Academy of Sciences
     year: 2014
-  - course: BS in Facility Agriculture Science and Engineering
+  - course: BS in Facility Agriculture Engineering
     institution: Northwest A&F University
     year: 2011
 
