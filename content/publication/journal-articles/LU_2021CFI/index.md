@@ -1,5 +1,5 @@
 ---
-title: "Dual-band Chlorophyll Fluorescence Imaging for Non-destructive Detection of Chilling Injury in Pickling Cucumbers"
+title: "Detection of Chilling Injury in Pickling Cucumbers Using Dual-band Chlorophyll Fluorescence Imaging"
 authors: 
 - Y. Lu
 - R. Lu
@@ -16,7 +16,7 @@ publishDate: "2021-01-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Foods (in preparation)"
+publication: "Innovative Food science and Emerging Technologies  (submitted to journal)"
 
 abstract: 
 ---
