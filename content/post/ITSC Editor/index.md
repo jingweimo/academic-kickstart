@@ -1,5 +1,5 @@
 ---
-title: 03/2021, Dr. Lu joined the ASABE ITSC Editorial Team as an Associate Editor 👋👋
+title: 03/2021, Dr. Lu joined the ASABE ITSC Editorial Team as an Associate Editor for ASABE Journals 👋👋
 subtitle: 
 
 # Summary for listings and search engines
