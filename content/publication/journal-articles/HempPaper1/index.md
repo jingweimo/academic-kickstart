@@ -19,7 +19,7 @@ publishDate: "2021-03-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Industrial Crops and Products (under review)*"
+publication: "*Industrial Crops and Products (ready for submission)*"
 
 abstract: ""
 # links:
