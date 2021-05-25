@@ -68,6 +68,6 @@ subtitle = ""
 
 2021 Spring: ABE 4423 Bioinstrum II (co-instructed)
 
-2021 Fall: Problem Solving in Agricultural and Biological Engineering (to be developed)
+2021 Fall: ABE 4990/6990 Introduction to Imaging in Biological Systems
 
-2021 Fall: Introduction to Imaging in Agriculture (to be developed)
+2022 Fall: Problem Solving in Agricultural and Biological Engineering (to be developed) 
