@@ -17,7 +17,7 @@ publishDate: "2021-01-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Postharvet Biology and Technology (in press)*"
+publication: "*Postharvet Biology and Technology 180, 111588*"
 
 abstract: "Infield pre-sorting is intended to remove processing (inferior) fruit that are not suitable
 for the fresh market, so that growers could handle sorted apples differentially in
@@ -39,5 +39,6 @@ after grading and sorting. The developed infield grading and sorting system is c
 and robust in performance, and it can meet commercial infield sorting needs."
 
 # links:
-url_pdf: 
+url_pdf:https://www.sciencedirect.com/science/article/pii/S0925521421001277
+doi: https://doi.org/10.1016/j.postharvbio.2021.111588
 ---
