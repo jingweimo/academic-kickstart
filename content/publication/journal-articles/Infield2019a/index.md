@@ -39,6 +39,6 @@ after grading and sorting. The developed infield grading and sorting system is c
 and robust in performance, and it can meet commercial infield sorting needs."
 
 # links:
-url_pdf:https://www.sciencedirect.com/science/article/pii/S0925521421001277
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0925521421001277
 doi: https://doi.org/10.1016/j.postharvbio.2021.111588
 ---
