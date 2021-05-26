@@ -1,5 +1,5 @@
 ---
-title: 05/2021, Dr. Lu joined the Youth Editorial Board of Smart Agriculture (http://www.smartag.net.cn) 👋👋
+title: 05/2021, Dr. Lu joined the Youth Editorial Board of the journal Smart Agriculture 👋👋
 subtitle: 
 
 # Summary for listings and search engines
