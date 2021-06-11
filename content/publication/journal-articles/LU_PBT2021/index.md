@@ -1,5 +1,5 @@
 ---
-title: "Detection of subsurface bruising in fresh pickling cucumbers using structured-illumination reflectance imagings"
+title: "Detection of subsurface bruising in fresh pickling cucumbers using structured-illumination reflectance imaging"
 authors: 
 - Y. Lu
 - R. Lu
