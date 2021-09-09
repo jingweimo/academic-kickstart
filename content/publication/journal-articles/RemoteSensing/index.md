@@ -1,5 +1,5 @@
 ---
-title: "Prediction of Freeze Damage and Minimum Winter Temperature of the Seed Source of Loblolly Pine Seedlings Using Hyperspectral Imaging"
+title: "Hyperspectral Imaging Combined with Machine Learning for the Detection of Fusiform Rust Disease Incidence in Loblolly Pine Seedlings"
 authors: 
 - P. Pandey
 - K.G. Payn 
