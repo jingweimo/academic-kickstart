@@ -1,5 +1,5 @@
 ---
-title: "Hyperspectral Imaging-Enabled High-Throughput Screening of Loblolly Pine (Pinus taeda L.) Seedlings for Freeze Tolerance"
+title: "HYPERSPECTRAL IMAGING WITH COST-SENSITIVE LEARNING FOR HIGH-THROUGHPUT SCREENING OF LOBLOLLY PINE (PINUS TAEDA L.) SEEDLING FOR FREEZE TOLERANCE"
 authors: 
 - Y. Lu 
 - K.G. Payn 
@@ -13,7 +13,7 @@ date: "2021-01-11"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-11T00:00:00Z"
+publishDate: "2021-09-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
