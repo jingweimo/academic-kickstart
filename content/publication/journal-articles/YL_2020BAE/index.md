@@ -1,5 +1,5 @@
 ---
-title: "Hyperspectral Imaging with cost-sensitive learning for high-throughput screening OF loblolly pine (Pinus Taeda L.) seedling for freeze tolerance"
+title: "Hyperspectral Imaging with cost-sensitive learning for high-throughput screening of loblolly pine (Pinus Taeda L.) seedling for freeze tolerance"
 authors: 
 - Y. Lu 
 - K.G. Payn 
