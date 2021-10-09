@@ -3,7 +3,7 @@ title: "Robust Plant Segmentation of Color Images Based on Image Contrast Optimi
 authors: 
 - Y. Lu* 
 - S. Young
-date: "2021-01-26"
+date: "2021-10-09"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
