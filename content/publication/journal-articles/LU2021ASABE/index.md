@@ -1,13 +1,13 @@
 ---
 title: "Robust Plant Segmentation of Color Images Based on Image Contrast Optimization"
 authors: 
-- Y. Lu 
+- Y. Lu* 
 - S. Young
 date: "2021-01-26"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-26T00:00:00Z"
+publishDate: "2021-10-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
