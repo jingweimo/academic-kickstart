@@ -1,5 +1,5 @@
 ---
-title: "A New Method for Robust Plant Segmentation Based on Contrast Enhancement and Automatic Thresholding"
+title: "Robust Plant Segmentation of Color Images Based on Image Contrast Optimization"
 authors: 
 - Y. Lu 
 - S. Young
@@ -16,7 +16,7 @@ publishDate: "2021-01-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transactions of the ASABE (in preparation)*"
+publication: "*Computers and Electronics in Agriculture (under review)*"
 
 abstract: 
 # links:
