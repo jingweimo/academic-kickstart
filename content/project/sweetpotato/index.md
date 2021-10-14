@@ -1,5 +1,5 @@
 ---
-title: Utilize Machine Vision Technology to Improve Efficiency and Reduce Labor of Local Sweetpotato Packing Lines (2021-2023, USDA Specialty Crop Block Grant Program)
+title: Utilize Machine Vision Technology to Improve Efficiency and Reduce Labor of Local Sweetpotato Packing Lines (2021-2023, USDA-AMS Specialty Crop Block Grant Program)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
