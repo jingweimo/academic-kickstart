@@ -75,8 +75,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Principal Investigator
+ - Grad Students
 # - Visitors
 ---
 
-I am an Assistant Professor in the Department of Agricultural and Biological Engineering at Mississippi State University. My research resolves around the development and deployment of non-destructive sensing (e.g., optical imaging and spectroscopy) and automation technology for addressing the pressing problems in the agricultural and food domain. After earning my doctorate, I worked for over 1 year for USDA-ARS at East Lansing, Michigan, on optical imaging for qualty evaluation of horticultural products, and apple harvest-assist and in-field sorting technology development, and later spent another year in the Department of Biological and Agricultural Engineering at North Carolina State University on several projects on imaging-based high-throughput plant phenotyping and precision agriculture. 
+#I am ... 
