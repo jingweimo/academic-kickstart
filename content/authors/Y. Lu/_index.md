@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:luyuzhen@msu.edu'  # For a direct email link, use "mailto:ylu52@ncsu.edu".
+  link: 'mailto:yl747@msstate.edu'  # For a direct email link, use "mailto:yl747@msstate.edu".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
