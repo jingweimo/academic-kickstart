@@ -6,11 +6,11 @@ authors:
 - E. Linder
 - P. Pandey
 - D. Suchoff
-date: "2021-03-30"
+date: "2021-11-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-30T00:00:00Z"
+publishDate: "2021-11-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publishDate: "2021-03-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Industrial Crops and Products (under review)*"
+publication: "*Frontiers in Plant Science (under review)*"
 
 abstract: ""
 # links:
