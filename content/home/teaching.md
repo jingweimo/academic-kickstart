@@ -66,8 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-2021 Spring: ABE 4423 Bioinstrum II (co-instructed)
+Spring Semester: ABE 4423/6423 Bioinstrumentation II 
 
-2021 Fall: ABE 4990/6990 Introduction to Imaging in Biological Systems
+Fall Semester: ABE 4990/6990 Introduction to Imaging in Biological Systems
 
-2022 Fall: Problem Solving in Agricultural and Biological Engineering (to be developed) 
+Fall Semester: Problem Solving in Agricultural and Biological Engineering (to be developed for 2022 Fall) 
