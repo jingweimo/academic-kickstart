@@ -1,5 +1,5 @@
 ---
-title: Sinusoidal-Illumination Imaging (SII) A Potential Tool for Enhanced Detection of Muscle Defects and Microbial Spoilage of Poultry
+title: Sinusoidal-Illumination Imaging (SII) A Potential Tool for Enhanced Detection of Muscle Defects and Microbial Spoilage of Poultry (2022-2023, USDA-NIFA)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
