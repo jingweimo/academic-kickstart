@@ -5,3 +5,7 @@ title: Develop image databases to support machine vision database to cotton harv
 # - Deep Learning
 date: "2022-01-11T00:00:00Z"
 ---
+This proposed project aims to develop and deploy deep learning models for weed detection for cotton production systems. We will pursue three sub-objectives as described below:
+Objective 1: Collect and label new images of weed species in cotton fields across Mississippi and integrate images supporting robotic cotton harvest systems (mature bolls). 
+Objective 2: Develop and evaluate deep learning models for weed detection. 
+Objective 3: Deploy deep learning models on a machine vision prototype for in-field weed detection. 
