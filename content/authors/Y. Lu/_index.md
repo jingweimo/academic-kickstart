@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yuzhen Lu
-name: Yuzhen Lu （陆宇振）
+name: Yuzhen Lu
 
 # Username (this should match the folder name)
 authors:
