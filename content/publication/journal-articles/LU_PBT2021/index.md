@@ -1,13 +1,14 @@
 ---
-title: "Generative Adversarial Networks for Image Augmentation in Agriculture: Applications and Challenges"
+title: "Detection of subsurface bruising in fresh pickling cucumbers using structured-illumination reflectance imaging"
 authors: 
-- E. Olaniyi
-- Y. Lu*
-date: "2022-01-22"
-# doi: " "
+- Y. Lu
+- Renfu Lu
+- Zhao Zhang
+date: "2021-06-17"
+doi: "https://doi.org/10.1016/j.postharvbio.2021.111624"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-22T00:00:00Z"
+publishDate: "2021-06-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +17,10 @@ publishDate: "2021-01-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agriculture Technology (in preparation)"
+publication: "Postharvest Biology and Technology 180, 111624"
 
 # abstract: 
 
 # links:
-# url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0925521421001630
 ---
