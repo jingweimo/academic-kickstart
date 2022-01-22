@@ -72,4 +72,4 @@ user_groups:
  - Grad Students
 # - Visitors
 ---
-Kong is an upcoming PhD student in Agricultural and Biological Engineering at Mississippi State University. He has a MS degree in Mechanical Engineering from Northeastern University (USA) and a BS degree in Process Equipment and Control Engineering from North University of China (Nigeria).
+Kong is an upcoming PhD student in Agricultural and Biological Engineering at Mississippi State University. He has a MS degree in Mechanical Engineering from Northeastern University (USA) and a BS degree in Process Equipment and Control Engineering from North University of China.
