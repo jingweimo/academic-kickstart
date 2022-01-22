@@ -1,8 +1,8 @@
 ---
 title: "Robust Plant Segmentation of Color Images Based on Image Contrast Optimization"
 authors: 
-- Y. Lu* 
-- S. Young
+- Y. Lu 
+- Sierra Young
 date: "2022-01-11"
 # doi: ""
 
