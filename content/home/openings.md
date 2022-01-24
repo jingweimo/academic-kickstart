@@ -69,4 +69,5 @@ subtitle = ""
 
 I am actively looking for a MS/PhD graduate student to start in Spring or Fall 2022 in the Department of Agricultural and Biological Engineering at Mississippi State University. The student will be expected to conduct original research within the fields of sensing and automation for agriculture-food systems. Potential research topics include but are not limited to sensing and assessment of food quality and safety, imaging-based plant phenotpyping, and artificial intelligence and robotics for precision plant/animal production. Students with engineering backgrounds (e.g., agricultural/food engineering, electrical engineering, computer science, etc.) and strong experience in computer vision and machine learning are highly welcome to apply. Please email me (yzlu@abe.msstate.edu, luyuzhen@msu.edu) with your CV if you are interested.
 
-{{< icon name="download" pack="fas" >}} See the {{< staticref "media/opening.pdf" "newtab" >}}position{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See the {{< staticref "media/opening.pdf" "newtab" >}}position (in English){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See the {{< staticref "media/MSU_GraduateAssistantship.pdf" "newtab" >}}position (in Chinese){{< /staticref >}}.
