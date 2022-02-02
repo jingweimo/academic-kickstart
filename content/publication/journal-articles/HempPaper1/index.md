@@ -7,7 +7,7 @@ authors:
 - P. Pandey
 - D. Suchoff
 date: "2022-01-01"
-doi: ""
+doi: "https://doi.org/10.3389/fpls.2021.810113"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-27T00:00:00Z"
@@ -19,9 +19,9 @@ publishDate: "2021-12-27T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Plant Science (accepted)*"
+publication: "*Frontiers in Plant Science 12, 810113*"
 
 abstract: ""
 # links:
-url_pdf: 
+url_pdf: https://www.frontiersin.org/articles/10.3389/fpls.2021.810113/full
 ---
