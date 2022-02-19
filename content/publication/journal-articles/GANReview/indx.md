@@ -3,11 +3,11 @@ title: "Generative Adversarial Networks for Image Augmentation in Agriculture: A
 authors: 
 - E. Olaniyi
 - Y. Lu
-date: "2022-01-22"
+date: "2022-02-19"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-22T00:00:00Z"
+publishDate: "2021-02-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
