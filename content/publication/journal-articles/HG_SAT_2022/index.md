@@ -22,5 +22,5 @@ abstract: "Cotton, a major crop worldwide, is harvested in mechanized production
 
 
 # links:
-# url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375522000107?via%3Dihub
 ---
