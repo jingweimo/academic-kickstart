@@ -5,7 +5,7 @@ authors:
 - J. Alex Thomasson
 - Y. Lu 
 date: "2022-02-18"
-# doi: " "
+doi: "10.1016/j.atech.2022.100043"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-02-18T00:00:00Z"
