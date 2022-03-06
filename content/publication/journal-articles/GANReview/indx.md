@@ -2,7 +2,8 @@
 title: "Generative Adversarial Networks for Image Augmentation in Agriculture: Applications and Challenges"
 authors: 
 - E. Olaniyi
-- Y. Lu
+- D. Chen
+- Y. Lu*
 date: "2022-02-19"
 # doi: " "
 
