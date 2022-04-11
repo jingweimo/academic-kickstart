@@ -1,10 +1,11 @@
 ---
-title: "Generative Adversarial Networks for Image Augmentation in Agriculture: Applications and Challenges"
+title: "Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review"
 authors: 
 - E. Olaniyi
 - D. Chen
 - Y. Lu*
-date: "2022-02-19"
+- Y. Huang
+date: "2022-04-11"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
@@ -17,11 +18,11 @@ publishDate: "2021-02-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (in preparation)"
+publication: "Computers and Electronics in Agriculture (submitted)"
 
 # abstract: 
 
 # links:
-# url_pdf: 
+url_pdf: 
 ---
 
