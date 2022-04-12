@@ -23,6 +23,6 @@ publication: "Computers and Electronics in Agriculture (submitted)"
 # abstract: 
 
 # links:
-url_pdf: 
+url_pdf: https://arxiv.org/abs/2204.04707
 ---
 
