@@ -1,5 +1,5 @@
 ---
-title: "DeepCottonWeeds (DCW): a novel benchmark of deep learning for weed detection in cotton production systems"
+title: "DeepCottonWeeds (DCW): A Novel Benchmark of Deep Learning for Weed Detection in Cotton Production Systems"
 authors: 
 - F. Dang
 - D. Chen
