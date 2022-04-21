@@ -3,7 +3,7 @@ title: Advancing Optical Technologies for Enhanced Quality Evaluation, Grading a
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
-date: "2022-41-21T00:00:00Z"
+date: "2022-04-21T00:00:00Z"
 ---
 This multi-state project aims to advance non-destructive optical technologies for enhanced quality evaluation, grading and sorting of sweetpotatoes. 
 Specifically, this project will: 
