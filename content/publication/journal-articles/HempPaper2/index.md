@@ -25,4 +25,5 @@ publication: "*Journal of the ASABE (in preparation)*"
 # abstract: 
 # links:
 # url_pdf: 
+url_code: {{< icon name="download" pack="fas" >}} {{< staticref "media/qrSP.m" "newtab" >}} {{< /staticref >}}.
 ---
