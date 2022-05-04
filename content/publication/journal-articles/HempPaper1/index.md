@@ -4,7 +4,6 @@ authors:
 - Y. Lu
 - S. Young
 - E. Linder
-- P. Pandey
 - D. Suchoff
 date: "2022-01-01"
 doi: "https://doi.org/10.3389/fpls.2021.810113"
