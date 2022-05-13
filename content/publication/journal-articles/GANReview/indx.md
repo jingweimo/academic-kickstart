@@ -18,7 +18,7 @@ publishDate: "2021-02-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (submitted)"
+publication: "Computers and Electronics in Agriculture (under review)"
 
 # abstract: 
 
