@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+# role: PhD Student
 # url: "https://www.abe.msstate.edu/people/faculty/"
 
 # Organizations/Affiliations
