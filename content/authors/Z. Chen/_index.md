@@ -46,13 +46,13 @@ role: Undergraduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:eoo35@msstate.edu'  # For a direct email link, use "mailto:eoo35@msstate.edu".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=_C1Z2ykAAAAJ&hl=en&oi=ao 
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Ebenezer-Olaniyi
+  link: 'mailto:cz251@msstate.edu'  # For a direct email link, use "mailto:eoo35@msstate.edu".
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=_C1Z2ykAAAAJ&hl=en&oi=ao 
+# - icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Ebenezer-Olaniyi
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
