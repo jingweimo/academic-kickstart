@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+# role: PhD Student
 # url: "https://www.abe.msstate.edu/people/faculty/"
 
 # Organizations/Affiliations
@@ -69,7 +69,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Graduate Students
+ - Graduate Assistants
 # - Visitors
 ---
 Kong is an upcoming PhD student in Agricultural and Biological Engineering at Mississippi State University. He has a MS degree in Mechanical Engineering from Northeastern University (USA) and a BS degree in Process Equipment and Control Engineering from North University of China.
