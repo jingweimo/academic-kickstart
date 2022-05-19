@@ -72,7 +72,7 @@ email: "eoo35@msstate.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Grad Students
+ - Graduate Students
 # - Visitors
 ---
 Ebennezer is a PhD student in Agricultural and Biological Engineering at Mississippi State University. He has a MS degree in Electrical and Electronics Engineering from Near East University (Turkey) and the Bachelor of Technology from Ladoke Akintola University (Nigeria). After earning the MS's degree, he worked as a lecturer in the department of Electrical and Electronic Engineering at Adeleke University (Nigeria). He is interested in image processing, pattern recognition, machine vision, and postharvest food inspection. 
