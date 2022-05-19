@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Zijie Chen
-name: Zijie Chen
+title: Joseph Coker
+name: Joseph Coker
 
 # Username (this should match the folder name)
 authors:
