@@ -1,5 +1,5 @@
 ---
-title: Advancing Optical Technologies for Enhanced Quality Evaluation, Grading and Sorting of Sweetpotatoes (USDA-AMS, Specialty Crop Multi-State Program)
+title: Advancing Optical Technologies for Enhanced Quality Evaluation, Grading and Sorting of Sweetpotatoes (2022-2025, USDA-AMS, Specialty Crop Multi-State Program)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
