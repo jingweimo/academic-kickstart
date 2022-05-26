@@ -1,5 +1,5 @@
 ---
-title: "Hyperspectral Imaging with Chemometrics for Non-destructive Quantification of Cannabinoids in Industrial Hemp"
+title: "Hyperspectral Imaging with Chemometrics for Non-destructive Determination of Cannabinoids in Floral and Leaf Materials of Industrial Hemp"
 authors:
 - Y. Lu
 - X. Li
@@ -20,7 +20,7 @@ publishDate: "2022-05-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of the ASABE (in preparation)*"
+publication: "*Computers and Electronics in Agriculture (submitted to journal)*"
 
 # abstract: 
 # links:
