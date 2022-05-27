@@ -63,9 +63,9 @@ height = "600px"
   [[item]]
   # title = "ASABE Certificates"
   content = "ASABE Certificates"
-  align = "right"
+  align = "center"
 
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#000"  # An HTML color value.
   overlay_img = "ASABECertificates.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.05  # Darken the image. Value in range 0-1.
 +++
