@@ -27,6 +27,6 @@ url_pdf: 'https://arxiv.org/abs/2110.04960https://www.researchgate.net/publicati
 
 url_code: 'https://github.com/Derekabc/CottonWeeds'
 
-url_data: 'https://www.kaggle.com/yuzhenlu/cottonweedid15'
+url_dataset: 'https://www.kaggle.com/yuzhenlu/cottonweedid15'
 
 ---
