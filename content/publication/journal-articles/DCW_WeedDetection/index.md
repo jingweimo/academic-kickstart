@@ -1,15 +1,15 @@
 ---
-title: "DeepCottonWeeds (DCW): A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production"
+title: "YOLOWeeds: A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production Systems"
 authors: 
 - F. Dang
 - D. Chen
 - Y. Lu*
 - Z. Li
-date: "2022-04-14"
+date: "2022-06-02"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-14T00:00:00Z"
+publishDate: "2021-06-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publishDate: "2021-04-14T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2022 ASABE AIM (submitted)"
+publication: "Computers and Electronics in Agriculture (submitted to journal)"
 
 # abstract: 
 
