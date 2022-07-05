@@ -1,9 +1,9 @@
 ---
 title: "Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review"
 authors: 
-- E. Olaniyi
-- D. Chen
 - Y. Lu*
+- D. Chen
+- E. Olaniyi
 - Y. Huang
 date: "2022-04-11"
 # doi: " "
