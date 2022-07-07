@@ -1,5 +1,5 @@
 ---
-title: "Generative Adversarial Networks for Image Augmentation in Agriculture: A Systematic Review"
+title: "Generative Adversarial Networks (GANs) for Image Augmentation in Agriculture: A Systematic Review"
 authors: 
 - Y. Lu*
 - D. Chen
