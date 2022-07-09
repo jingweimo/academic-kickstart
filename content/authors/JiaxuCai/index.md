@@ -69,7 +69,7 @@ superuser: false
 #  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "caijiaxu2000@gmail.com"
+email: 'caijiaxu2000@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
