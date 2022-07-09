@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Jiaxu Cai
+title: JiaxuCai
 # name: Jiaxu Cai
 
 # Username (this should match the folder name)
 authors:
-- JiaxuCai
+  - JiaxuCai
 
 # Is this the primary user of the site?
 superuser: false
