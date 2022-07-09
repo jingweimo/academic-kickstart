@@ -44,13 +44,7 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:eoo35@msstate.edu'  # For a direct email link, use "mailto:eoo35@msstate.edu".
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=_C1Z2ykAAAAJ&hl=en&oi=ao 
+social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jiaxu-Cai
