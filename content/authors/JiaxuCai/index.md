@@ -1,7 +1,7 @@
 ---
 # Display name
-# title: Jiaxu Cai
-name: Jiaxu Cai
+title: Jiaxu Cai
+# name: Jiaxu Cai
 
 # Username (this should match the folder name)
 authors:
