@@ -11,12 +11,12 @@ authors:
 superuser: false
 
 # Role/position
-# role: PhD Student
+# role: MS Student
 # url: "https://www.abe.msstate.edu/people/faculty/"
 
 # Organizations/Affiliations
 # organizations:
-#- name: Mississippi State University
+# - name: Mississippi State University
 #  url: "https://www.msstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
