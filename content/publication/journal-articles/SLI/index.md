@@ -2,7 +2,7 @@
 title: "Structured-Light Imaging"
 authors: 
 - Y. Lu
-- J. Cai
+- Jiaxu Cai
 date: "2022-07-20"
 # doi: " "
 
