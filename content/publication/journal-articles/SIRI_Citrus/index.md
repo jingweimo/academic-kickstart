@@ -3,7 +3,6 @@ title: "Detection of early decay in navel oranges by structured-illumination ref
 authors: 
 - J. Li
 - Y. Lu
-- Z. Cai
 - R. Lu
 date: "2022-04-26"
 # doi: " "
