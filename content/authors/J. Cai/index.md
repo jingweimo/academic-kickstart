@@ -5,7 +5,7 @@ title: Jiaxu Cai
 
 # Username (this should match the folder name)
 authors:
-  - JiaxuCai
+  - J. Cai
 
 # Is this the primary user of the site?
 superuser: false
