@@ -16,7 +16,7 @@ publishDate: "2022-07-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Q. Zhang (ed.) Encyclopedia of Smart Agriculture Technologies (submitted)"
+publication: "In Q. Zhang (ed.) Encyclopedia of Smart Agriculture Technologies (submitted). Springer"
 
 # abstract: 
 
