@@ -1,10 +1,10 @@
 ---
 title: "Generative Adversarial Networks (GANs) for Image Augmentation in Agriculture: A Systematic Review"
 authors: 
-- Y. Lu*
-- D. Chen
+- Y. Lu
+- Dong Chen
 - E. Olaniyi
-- Y. Huang
+- Yanbo Huang
 date: "2022-07-07"
 # doi: " "
 
