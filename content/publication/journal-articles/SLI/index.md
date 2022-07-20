@@ -1,5 +1,5 @@
 ---
-title: "Structured Light Imaging"
+title: "Structured-Light Imaging"
 authors: 
 - Y. Lu
 - J. Cai
@@ -16,7 +16,7 @@ publishDate: "2022-07-20T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Q. Zhang (ed.) Encyclopedia of Smart Agriculture Technologies (submitted). Springer"
+publication: "In Q. Zhang (Ed.) Encyclopedia of Smart Agriculture Technologies (submitted). Springer"
 
 # abstract: 
 
