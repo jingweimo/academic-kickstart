@@ -1,14 +1,14 @@
 ---
-title: "Detection of early decay in navel oranges by structured-illumination reflectance imaging (SIRI) combined with image enhancement and segmentation"
+title: "Detection of early decay in navel oranges by structured-illumination reflectance imaging combined with image enhancement and segmentation"
 authors: 
 - J. Li
 - Y. Lu
 - R. Lu
-date: "2022-04-26"
+date: "2022-08-21"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-26T00:00:00Z"
+publishDate: "2021-08-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2021-04-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Food Engineering (in preparation)"
+publication: "Innovative Food Science & Emerging Technologies (submitted to journal)"
 
 # abstract: 
 
