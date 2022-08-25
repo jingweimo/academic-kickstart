@@ -17,7 +17,7 @@ publishDate: "2021-08-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Innovative Food Science & Emerging Technologies (submitted to journal)"
+publication: "Postharvest Biology and Technology (submitted to journal)"
 
 # abstract: 
 
