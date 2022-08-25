@@ -4,11 +4,11 @@ authors:
 - A. Rahman
 - Y. Lu
 - H. Wang
-date: "2022-08-19"
+date: "2022-08-25"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-19T00:00:00Z"
+publishDate: "2021-08-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2021-08-19T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agricultural Technology (submitted)"
+publication: "Smart Agricultural Technology (under review)"
 
 # abstract: 
 
