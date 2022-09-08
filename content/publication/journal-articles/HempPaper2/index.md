@@ -7,11 +7,11 @@ authors:
 - S. Young
 - E. Linder
 - D. Suchoff
-date: "2022-05-04"
+date: "2022-09-08"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-04T00:00:00Z"
+publishDate: "2022-09-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2022-05-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (under review)*"
+publication: "*Computers and Electronics in Agriculture (in press)*"
 
 # abstract: 
 # links:
