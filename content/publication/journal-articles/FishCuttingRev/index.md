@@ -1,7 +1,6 @@
 ---
 title: "Cutting techniques in the fish industry: a critical review"
-authors: Wenbo Liu *, Jiaqi Lyu, Di Wu, Yupeng Cao, Qingquan Ma, Yuzhen Lu,
-Xin Zhang
+authors: 
 - W. Liu
 - J. Lyu
 - D. Wu
