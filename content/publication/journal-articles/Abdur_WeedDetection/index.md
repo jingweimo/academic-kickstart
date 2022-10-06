@@ -23,7 +23,7 @@ publication: "Smart Agricultural Technology 100126"
 
 # links:
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375522000910
-url_data: www.kaggle.com/yuzhenlu/cottonweeddet3
+url_dataset: www.kaggle.com/yuzhenlu/cottonweeddet3
 url_code: https://github.com/abdurrahman1828/DNNs-for-Weed-Detections
 
 ---
