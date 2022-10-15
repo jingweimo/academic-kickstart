@@ -4,11 +4,11 @@ authors:
 - J. Li
 - Y. Lu
 - R. Lu
-date: "2022-08-21"
+date: "2022-10-15"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-08-21T00:00:00Z"
+publishDate: "2021-10-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2021-08-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Postharvest Biology and Technology (submitted to journal)"
+publication: "Postharvest Biology and Technology (in press)"
 
 # abstract: 
 
