@@ -1,14 +1,14 @@
 ---
 title: "Deep Data Augmentation for Weed Recognition Enhancement: A Diffusion Probabilistic Model and Transfer Learning Based Approach"
 
-authors: Dong Chen, Xinda Qi, Yu Zheng, Yuzhen Lu, Zhaojian Li
+authors:
 - Dong Chen
 - Xinda Qi
 - Yu Zheng
 - Y. Lu
 - Zhaojian Li
 date: "2022-10-29"
-
+# doi: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-29T00:00:00Z"
