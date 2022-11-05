@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Kong Zhang
-name: Kong Zhang
+title: Vahid Farzand Ahmadi
+name: Vahid Farzand Ahmadi
 
 # Username (this should match the folder name)
 authors:
@@ -64,7 +64,7 @@ social:
 #  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 
+email: vf158@msstate.edu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,4 +72,4 @@ user_groups:
  - Graduate Assistants
 # - Visitors
 ---
-Kong is an upcoming PhD student in Agricultural and Biological Engineering at Mississippi State University. He has a MS degree in Mechanical Engineering from Northeastern University (USA) and a BS degree in Process Equipment and Control Engineering from North University of China.
+
