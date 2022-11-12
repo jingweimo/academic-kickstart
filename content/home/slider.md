@@ -18,7 +18,7 @@ height = "600px"
 [[item]]
   # title 
   content = "Poultry Imaging for Defect Detection"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
   
   # Overlay
   overlay_color = "#666"  # An HTML color value.
