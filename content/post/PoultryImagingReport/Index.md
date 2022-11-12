@@ -1,5 +1,5 @@
 ---
-title: Our poultry quality imaging research, funded by MSU-MAFES and USDA-NIFA, are making headlines on campus and the WATTPoultry website 👋👋. 
+title: Our poultry quality imaging research, funded by MSU-MAFES and USDA-NIFA, is making headlines on campus and the WATTPoultry website 👋👋. 
 subtitle: 
 
 # Summary for listings and search engines
