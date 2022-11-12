@@ -1,5 +1,5 @@
 ---
-title: Cotton Weed Database Development and Deep Learning Model Benchmarking (Cotton Inc., Cary, NC)
+title: Cotton Weed Database Development and Deep Learning Model Benchmarking (2021, Cotton Inc., Cary, NC)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
