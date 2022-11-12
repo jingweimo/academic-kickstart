@@ -9,10 +9,10 @@ summary: "Read the reports here: https://www.msstate.edu/newsroom/article/2022/0
 projects: []
 
 # Date published
-date: "2022-08-31T00:00:00Z"
+date: "2022-11-12T00:00:00Z"
 
 # Date updated
-lastmod: "2022-08-31T00:00:00Z"
+lastmod: "2022-11-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
