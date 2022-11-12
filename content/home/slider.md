@@ -22,7 +22,7 @@ height = "600px"
   
   # Overlay
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Infield2019_1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "20220812_PoultryImagingTech.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -33,7 +33,7 @@ height = "600px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "20220812_PoultryImagingTech.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "Infield2019_1.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
