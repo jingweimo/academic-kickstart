@@ -1,9 +1,9 @@
 ---
-title: Our poultry quality imaging research, funded by MSU-MAFES and USDA-NIFA, are making headlines on MSU and WATTPoultry 👋👋. Read the report here https://www.msstate.edu/newsroom/article/2022/09/making-grade-msu-scientists-apply-high-resolution-imaging-technology and https://www.wattagnet.com/articles/46075-fruit-imaging-approach-could-detect-poultry-meat-myopathies 
+title: Our poultry quality imaging research, funded by MSU-MAFES and USDA-NIFA, are making headlines on cmapus and the WATTPoultry website 👋👋. 
 subtitle: 
 
 # Summary for listings and search engines
-summary:
+summary: Read the reports here: https://www.msstate.edu/newsroom/article/2022/09/making-grade-msu-scientists-apply-high-resolution-imaging-technology and https://www.wattagnet.com/articles/46075-fruit-imaging-approach-could-detect-poultry-meat-myopathies 
 
 # Link this post with a project
 projects: []
