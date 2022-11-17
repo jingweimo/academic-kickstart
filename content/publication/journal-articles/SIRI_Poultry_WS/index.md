@@ -19,7 +19,7 @@ publishDate: "2021-11-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Food Engineering (accepted)"
+publication: "Journal of Food Engineering (in press)"
 
 # abstract: 
 
