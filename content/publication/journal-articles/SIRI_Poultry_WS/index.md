@@ -7,7 +7,7 @@ authors:
 - Anuraj Theradiyil Sukumaran
 - T. Jarvis
 date: "2022-11-16"
-# doi: ""
+doi: "https://doi.org/10.1016/j.jfoodeng.2022.111359"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-11-16T00:00:00Z"
@@ -24,7 +24,7 @@ publication: "Journal of Food Engineering (in press)"
 # abstract: 
 
 # links:
-# url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0260877422004137
 # url_dataset: 
 # url_code: 
 
