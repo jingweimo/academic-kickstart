@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Evaluation of White Striping in Broiler Breast Fillets by Innovative Imaging Under Sinusoidal Illumination"
+title: "Feasibility of imaging under structured illumination for evaluation of white striping in broiler breast fillets"
 authors: 
 - E. Olaniyi
 - Y. Lu
