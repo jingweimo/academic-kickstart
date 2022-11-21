@@ -1,5 +1,5 @@
 ---
-title: "Feasibility of imaging under structured illumination for evaluation of white striping in broiler breast fillets"
+title: "Feasibility of Imaging under Structured Illumination for Evaluation of White Striping in Broiler Breast Fillets"
 authors: 
 - E. Olaniyi
 - Y. Lu
