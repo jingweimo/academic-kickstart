@@ -16,8 +16,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Mississippi State University
-  url: "https://www.msstate.edu/"
+- name: Michigan State University
+# url: "https://www.msstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optical sensing, machine vision, precision agriculture, food assessment and data analytics.
