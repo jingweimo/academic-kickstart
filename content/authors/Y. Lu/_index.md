@@ -79,8 +79,6 @@ user_groups:
 # - Visitors
 ---
 
-I am an Assistant Professor in the Department of Agricultural and Biological Engineering at Mississippi State University. My research resolves around the development and deployment of non-destructive sensing (e.g., optical imaging and spectroscopy) and automation technology for addressing pressing problems in the agricultural and food domain.
+I am an Assistant Professor in the Department of Biosystems and Agricultural Engineering at Michigan State University (MSU). My research resolves around the development and deployment of non-destructive sensing (e.g., optical imaging and spectroscopy) and automation technology for addressing pressing problems in the agricultural and food domain.
 
-Before assuming my current position at Mississippi State University, I was a Postdoc Research Associate for USDA-ARS at East Lansing, Michigan, on optical imaging for quality evaluation of horticultural products, and apple harvest-assist and in-field sorting technology development, and subsequently joined in the Department of Biological and Agricultural Engineering at North Carolina State University working on several projects on imaging-based high-throughput plant phenotyping and precision agriculture. 
-
-Starting on 1/1/2023, our lab will move to the Department of Biosystems and Agricultural Engineering at Michigan State University. GO GREEN!
+Before assuming my current position at MSU, I was an Assistant Professor in the Department of Agricultural and Biological Engineering at Mississippi State University during 2020-2022. Earlier, I did my postdoctoral research on optical imaging for quality evaluation of horticultural products, and apple harvest-assist and in-field sorting technology development when with USDA-ARS at East Lansing, MI, and worked on several projects on imaging-based high-throughput plant phenotyping and precision agriculture while in the Department of Biological and Agricultural Engineering at North Carolina State University. 
