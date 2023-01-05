@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "250 J. Charles Lee Agricultural & Biological Engineering Building", city = "Mississippi State", region = "MS", postcode = "39762", country = "United States", country_code = "US"}
+address = {street = "524 S. Shaw Ln, 211 Farrall Hall, Michigan State University", city = "East Lansing", region = "MI", postcode = "48824", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.453074", longitude = "-88.792933"}
+coordinates = {latitude = "42.72479053897252", longitude = "-84.47725157249336"} 
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -112,8 +112,8 @@ coordinates = {latitude = "33.453074", longitude = "-88.792933"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "yzlu@abe.msstate.edu, luyuzhen@msu.edu"},
-  {icon = "phone", icon_pack = "fas", name = "662-325-7345"},
+  {icon = "envelope", icon_pack = "fas", name = "luyuzhen@msu.edu"},
+  #{icon = "phone", icon_pack = "fas", name = "662-325-7345"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jingweimo89"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
