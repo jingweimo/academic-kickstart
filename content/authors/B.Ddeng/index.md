@@ -6,7 +6,7 @@ name: Boyang Deng
 
 # Username (this should match the folder name)
 authors:
-- Boyang Deng
+- B.Ddeng
 
 # Is this the primary user of the site?
 superuser: false
