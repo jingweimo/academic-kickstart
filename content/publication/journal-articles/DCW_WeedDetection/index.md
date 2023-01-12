@@ -3,7 +3,7 @@ title: "YOLOWeeds: A Novel Benchmark of YOLO Object Detectors for Weed Detection
 authors: 
 - F. Dang
 - D. Chen
-- Y. Lu*
+- Y. Lu
 - Z. Li
 date: "2023-01-12"
 # doi: " "
