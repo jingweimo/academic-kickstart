@@ -43,12 +43,12 @@ education:
     year: 2011
 
 # Social/Academic Networking
-# For available icons, see: https://jpswalsh.github.io/academicons/
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/ and https://jpswalsh.github.io/academicons/
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: building-columns
-  icon_pack: fab
+  #icon_pack: fab
   link: https://www.egr.msu.edu/bae/  # For a direct email link, use "mailto:yl747@msstate.edu".
   
 #- icon: envelope
