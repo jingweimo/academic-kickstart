@@ -43,10 +43,13 @@ education:
     year: 2011
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://jpswalsh.github.io/academicons/
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: fa-sharp fa-solid fa-building-columns
+  icon_pack: fas
+  link: https://www.egr.msu.edu/bae/  # For a direct email link, use "mailto:yl747@msstate.edu".
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yl747@msstate.edu'  # For a direct email link, use "mailto:yl747@msstate.edu".
