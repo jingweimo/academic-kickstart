@@ -24,5 +24,5 @@ publication: "Computers and Electronics in Agriculture (in press)"
 
 # links:
 # url_pdf:
-Code: https://github.com/DongChen06/DCW
+url_code: https://github.com/DongChen06/DCW
 ---
