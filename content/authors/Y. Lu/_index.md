@@ -50,9 +50,11 @@ social:
 - icon: building-columns
   icon_pack: fab
   link: https://www.egr.msu.edu/bae/  # For a direct email link, use "mailto:yl747@msstate.edu".
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:yl747@msstate.edu'  # For a direct email link, use "mailto:yl747@msstate.edu".
+  
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:yl747@msstate.edu'  # For a direct email link, use "mailto:yl747@msstate.edu".
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mC5ZTvEAAAAJ&hl=en 
