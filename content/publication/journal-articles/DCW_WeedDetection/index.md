@@ -6,7 +6,7 @@ authors:
 - Y. Lu
 - Z. Li
 date: "2023-01-12"
-doi: https://doi.org/10.1016/j.compag.2023.107655
+doi: "10.1016/j.compag.2023.107655"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-12T00:00:00Z"
