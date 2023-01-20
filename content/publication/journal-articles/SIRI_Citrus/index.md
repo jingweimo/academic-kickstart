@@ -1,14 +1,14 @@
 ---
 title: "Detection of early decay in navel oranges by structured-illumination reflectance imaging combined with image enhancement and segmentation"
 authors: 
-- Jianbo Li
+- Jiangbo Li
 - Y. Lu
 - Renfu Lu
 date: "2022-10-29"
 doi: "https://doi.org/10.1016/j.postharvbio.2022.112162"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-29T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
