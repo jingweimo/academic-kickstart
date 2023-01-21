@@ -24,5 +24,6 @@ abstract: "Weeds are among the major threats to cotton production. Overreliance 
 
 # links:
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169923000431?dgcid=author
+url_data: https://doi.org/10.5281/zenodo.7535814
 url_code: https://github.com/DongChen06/DCW
 ---
