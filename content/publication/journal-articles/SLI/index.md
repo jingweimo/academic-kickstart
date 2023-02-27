@@ -3,11 +3,11 @@ title: "Structured-Light Imaging"
 authors: 
 - Y. Lu
 - Jiaxu Cai
-date: "2023-2-26"
+date: "2023-02-26"
 doi: https://doi.org/10.1007/978-3-030-89123-7_166-1
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-2-26T00:00:00Z"
+publishDate: "2023-02-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
