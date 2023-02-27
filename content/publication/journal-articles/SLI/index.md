@@ -3,11 +3,11 @@ title: "Structured-Light Imaging"
 authors: 
 - Y. Lu
 - Jiaxu Cai
-date: "2023-01-06"
-# doi: " "
+date: "2023-21-26"
+doi: "https://doi.org/10.1007/978-3-030-89123-7_166-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-05T00:00:00Z"
+publishDate: "2023-21-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2023-01-05T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Q. Zhang (Ed.) Encyclopedia of Smart Agriculture Technologies. Springer (in press)"
+publication: "In Q. Zhang (Ed.) Encyclopedia of Smart Agriculture Technologies. Springer"
 
 # abstract: 
 
