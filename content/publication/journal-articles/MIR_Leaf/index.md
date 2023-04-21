@@ -1,10 +1,6 @@
 ---
 title: "Efects of fne grinding on mid‑infrared spectroscopic analysis of plant leaf nutrient content"
 authors: 
-Caleb R. Whatley1
-, Nuwan K.Wijewardane1*, Raju Bheemanahalli2
-, K. Raja Reddy2 & 
-Yuzhen Lu1,
 - C.R. Whatley
 - N.K. Wijewardane
 - R. Bheemanahlli2
