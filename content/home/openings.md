@@ -67,13 +67,13 @@ subtitle = ""
  css_class = ""
 +++
 
-I am actively looking for a MS/PhD graduate student to start in Spring/Fall 2023 in the Department of Biosystems & Agricultural Engineering at Michigan State University. The student will be expected to conduct original research within the fields of sensing and automation for agriculture-food systems. Potential research topics include but are not limited to sensing and assessment of food quality and safety, imaging-based plant phenotpyping, and artificial intelligence and robotics for precision plant/animal production. Students with engineering backgrounds (e.g., agricultural/food engineering, electrical engineering, computer science, etc.) and strong experience in computer vision and machine learning are highly welcome to apply. Please email me (yzlu@abe.msstate.edu, luyuzhen@msu.edu) with your CV if you are interested.
+I am actively looking for a PhD graduate student to start in Fall 2023 / Spring 2024 in the Department of Biosystems & Agricultural Engineering at Michigan State University. The student will be expected to conduct original research within the fields of sensing and automation for agriculture-food systems. Potential research topics include but are not limited to sensing and assessment of food quality and safety, imaging-based plant phenotpyping, and artificial intelligence and robotics for precision plant/animal production. Students with engineering backgrounds (e.g., agricultural/food engineering, electrical engineering, computer science, etc.) and strong experience in computer vision and machine learning are highly welcome to apply. Please email me (yzlu@abe.msstate.edu, luyuzhen@msu.edu) with your CV if you are interested.
 
 {{< icon name="download" pack="fas" >}} See the {{< staticref "media/Opening.pdf" "newtab" >}} GRA position (in English){{< /staticref >}}.
 {{< icon name="download" pack="fas" >}} See the {{< staticref "media/MSU_GraduateAssistantship.pdf" "newtab" >}} GRA position (in Chinese){{< /staticref >}}.
 
 
 
-In additon, I also have a Postdoc position focusing on real-time computer vision, grading, and sorting for specialty crop products. The position can be started in Fall 2022 or Spring 2023, for two years of funding (with possibility of extension). Qualifications for this position include demonstrated experience in computer vision, sensors and control, software-hardware integration, and strong publication records in agricultural engineering journals. 
+In additon, I also have a Postdoc position focusing on real-time computer vision, grading, and sorting for specialty crop products. The position can be started in Spring 2024 for two years of funding (with possibility of extension). Qualifications for this position include demonstrated experience in computer vision, sensors and control, software-hardware integration, and strong publication records in agricultural engineering journals. 
 
 {{< icon name="download" pack="fas" >}} See the {{< staticref "media/PostdocPosition.pdf" "newtab" >}} Postdoc position {{< /staticref >}}.
