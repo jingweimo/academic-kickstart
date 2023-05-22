@@ -5,7 +5,7 @@ authors:
 - Lorin Harvey
 - Mark Shankle
 date: "2023-05-18"
-#doi: ""
+doi: "https://doi.org/10.3390/agriengineering5020058"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-18T00:00:00Z"
@@ -20,6 +20,6 @@ publication_types: ["2"]
 publication: "AgriEngineering (in press)"
 
 abstract: 
-# links:
-# url_pdf: 
+# links: 
+url_pdf: https://www.mdpi.com/2624-7402/5/2/58
 ---
