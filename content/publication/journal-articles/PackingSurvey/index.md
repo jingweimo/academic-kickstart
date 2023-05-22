@@ -17,7 +17,7 @@ publishDate: "2023-05-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AgriEngineering (in press)"
+publication: "AgriEngineering 5(2), 941-949"
 
 abstract: 
 # links: 
