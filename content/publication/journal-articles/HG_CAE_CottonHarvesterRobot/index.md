@@ -17,7 +17,7 @@ publishDate: "2023-05-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (211) 107943*"
+publication: "*Computers and Electronics in Agriculture (211), 107943*"
 # abstract: " " 
 
 
