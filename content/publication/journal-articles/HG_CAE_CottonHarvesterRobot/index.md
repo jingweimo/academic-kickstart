@@ -4,8 +4,8 @@ authors:
 - Hussein Gharakhani
 - J. Alex Thomasson
 - Y. Lu 
-date: "2023-05-17"
-# doi: " "
+date: "2023-06-02"
+doi: "https://doi.org/10.1016/j.compag.2023.107943"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-17T00:00:00Z"
@@ -17,10 +17,10 @@ publishDate: "2023-05-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (in press)*"
+publication: "*Computers and Electronics in Agriculture (211) 107943*"
 # abstract: " " 
 
 
 # links:
-# url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169923003319?via%3Dihub
 ---
