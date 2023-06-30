@@ -46,7 +46,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dengboy1@msu.edu' 
+  link: "mailto:dengboy1@msu.edu" 
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=_C1Z2ykAAAAJ&hl=en&oi=ao 
@@ -73,6 +73,5 @@ email: "mailto:dengboy1@msu.edu"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
  - Graduate Assistants
-   
 # - Visitors
 ---
