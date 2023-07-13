@@ -16,6 +16,15 @@ height = "650px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  # title = "Outstanding Associate Editor Award"
+  content = "ASABE 2023 AIM in Omaha, NE"
+  align = "right"
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "ASABE 2023 AIM.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
+[[item]]
   # title 
   content = "Poultry Imaging for Defect Detection"
   align = "right"  # Choose `center`, `left`, or `right`.
