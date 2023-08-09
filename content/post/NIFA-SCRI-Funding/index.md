@@ -1,5 +1,5 @@
 ---
-title:📢 We are receiving new funding from USDA-NIFA-SCRI to develop integrated harvesting-sorting automation technology to enhance the competitiveness and sustainability the U.S. apple industry 👋👋. Stay tuned to project updates
+title: We are receiving new funding from USDA-NIFA-SCRI to develop integrated harvesting-sorting automation technology to enhance the competitiveness and sustainability the U.S. apple industry 👋👋. Stay tuned to project updates
 subtitle: 
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary:
 projects: []
 
 # Date published
-date: "2023-08-07T00:00:00Z"
+date: "2023-08-09T00:00:00Z"
 
 # Date updated
-lastmod: "2023-08-07T00:00:00Z"
+lastmod: "2023-08-09T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
