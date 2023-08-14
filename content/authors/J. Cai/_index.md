@@ -48,6 +48,10 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jiaxu-Cai
+
+- icon: googlescholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hOW6aLwAAAAJ&hl=zh-CN&oi=ao 
   
 # - icon: twitter
 #  icon_pack: fab
