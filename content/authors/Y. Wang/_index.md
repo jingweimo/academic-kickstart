@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Yibin Wang
+title: Yibin Wang
 name: Yibin Wang
 
 # Username (this should match the folder name)
