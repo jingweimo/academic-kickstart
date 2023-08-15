@@ -74,6 +74,6 @@ I am actively looking for a PhD graduate student to start in Fall 2023 / Spring 
 
 
 
-In additon, I also have a Postdoc position focusing on real-time computer vision, grading, and sorting for specialty crop products. The position can be started in Spring 2024 for two years of funding (with possibility of extension). Qualifications for this position include demonstrated experience in computer vision, sensors and control, software-hardware integration, and strong publication records in agricultural engineering journals. 
+In additon, I also have a Postdoc position focusing on real-time computer vision, grading, and sorting for specialty crop products. The position can be started in Fall 2023 / Spring 2024 for two years of funding (with possibility of extension). Qualifications for this position include demonstrated experience in computer vision, sensors and control, software-hardware integration, and strong publication records in agricultural engineering journals. 
 
 {{< icon name="download" pack="fas" >}} See the {{< staticref "media/PostdocPosition.pdf" "newtab" >}} Postdoc position {{< /staticref >}}.
