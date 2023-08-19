@@ -1,5 +1,5 @@
 ---
-title: Development of an Automated and Integrated Mobile System (AIMS) for Apple Harvest and In-field Sorting (2023.10-2027.09, USDA-NIFA-SCRI, $3.53M; PD: Dr. Renfu Lu)
+title: Development of an Automated and Integrated Mobile System (AIMS) for Apple Harvest and In-field Sorting (2023.10-2027.09, USDA-NIFA-SCRI, $3.53M; PD Dr. Renfu Lu)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
