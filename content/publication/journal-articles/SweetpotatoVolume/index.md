@@ -17,7 +17,7 @@ publishDate: "2023-08-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Food Engineering (under review)"
+publication: "*Journal of Food Engineering (under review)*"
 
 # abstract: 
 # links: 
