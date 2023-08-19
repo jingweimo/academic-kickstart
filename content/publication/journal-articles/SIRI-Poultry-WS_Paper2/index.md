@@ -18,7 +18,7 @@ publishDate: "2023-08-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of the ASABE (under review)"
+publication: "*Journal of the ASABE (under review)*"
 
 # abstract: 
 
