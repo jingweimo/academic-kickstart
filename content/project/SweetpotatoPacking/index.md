@@ -1,5 +1,5 @@
 ---
-title: Instrumented Assessment of Sweetpotato Harvest and Packing Line Impacts Towards Damage Reduction (2022-2024, USDA-AMS Specialty Crop Block Grant Program)
+title: Instrumented Assessment of Sweetpotato Harvest and Packing Line Impacts Towards Damage Reduction (2022-2024, USDA-AMS-SCBGP, $50,000)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
