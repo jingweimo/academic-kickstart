@@ -21,7 +21,7 @@ publication: "*Journal of Food Engineering*"
 
 # abstract: 
 # links: 
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0260877423003230
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0260877423003230
 # url_dataset:
 # url_code: 
 
