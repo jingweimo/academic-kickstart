@@ -1,5 +1,5 @@
 ---
-title: "Efects of fne grinding on mid‑infrared spectroscopic analysis of plant leaf nutrient content"
+title: "Efects of fine grinding on mid‑infrared spectroscopic analysis of plant leaf nutrient content"
 authors: 
 - C.R. Whatley
 - N.K. Wijewardane
