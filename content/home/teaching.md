@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+2023 Fall: BE491/891 Sensors & Robotics for Agricultural Systems, Michigan State University
 
 2022 Fall: ABE 4463/6463 Introduction to Imaging in Biological Systems, Mississippi State University
 
