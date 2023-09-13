@@ -1,5 +1,5 @@
 ---
-title: We are receiving new funding from M-AAA (Michigan Alliance for Animal Agriculture) on poultry quality imaging and USDA-NIFA-AFRI to take award-winning in-orchard fruit sorting technology to the next level 👋👋. Opennings are available for undergraduate/graduate/Postdoc students. 
+title: We are receiving new funding from M-AAA (Michigan Alliance for Animal Agriculture) on poultry quality imaging and USDA-NIFA-AFRI to take award-winning in-orchard fruit sorting technology to the next level 👋👋. Opennings are available for undergraduate, graduate and Postdoc students. 
 subtitle: 
 
 # Summary for listings and search engines
