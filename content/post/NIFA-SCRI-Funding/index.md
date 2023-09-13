@@ -1,5 +1,5 @@
 ---
-title: We are receiving new funding from USDA-NIFA-SCRI to develop integrated harvesting-sorting automation technology to enhance the competitiveness and sustainability the U.S. apple industry 👋👋. Stay tuned to project updates
+title: We are receiving new funding from USDA-NIFA-SCRI to develop integrated harvesting-sorting automation technology to enhance the competitiveness and sustainability the U.S. apple industry 👋👋. Openings are available for MS/PhD and Postdoc students. 
 subtitle: 
 
 # Summary for listings and search engines
