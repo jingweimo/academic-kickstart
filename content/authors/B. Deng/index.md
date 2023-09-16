@@ -47,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:dengboy1@msu.edu" 
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=_C1Z2ykAAAAJ&hl=en&oi=ao 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=X6-BhfgAAAAJ&hl=en
 # - icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Ebenezer-Olaniyi
