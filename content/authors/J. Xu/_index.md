@@ -47,12 +47,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'jilinxujiajun@gmail.com'  # For a direct email link, use "jilinxujiajun@gmail.com".
+  
 - icon: google-scholar
   icon_pack: ai
-  # link:  
+  # link:
+  
 - icon: researchgate
   icon_pack: ai
-  # link: 
+  link: https://www.researchgate.net/profile/Jiajun-Xu-15
+  
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
