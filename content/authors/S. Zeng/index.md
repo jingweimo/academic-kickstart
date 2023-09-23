@@ -1,3 +1,4 @@
+---
 # Display name
 title: Shuochong Zeng
 name: Shuochong Zeng
@@ -67,3 +68,4 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'caijiaxu2000@gmail.com'
+---
