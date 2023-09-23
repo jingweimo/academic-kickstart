@@ -50,7 +50,7 @@ social:
   link: 
 - icon: researchgate
   icon_pack: ai
-  link: 
+  link: https://www.researchgate.net/profile/Vahid-Ahmadi-6
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
@@ -65,7 +65,7 @@ social:
 #  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: vf158@msstate.edu
+email: farzandv@msu.edu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
