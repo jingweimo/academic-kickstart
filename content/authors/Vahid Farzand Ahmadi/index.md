@@ -42,12 +42,12 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link:  .
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+#- icon: envelope
+#  icon_pack: fas
+#  link:  .
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Vahid-Ahmadi-6
