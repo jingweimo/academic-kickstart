@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Vahid Farzand Ahmadi
@@ -44,16 +43,20 @@ superuser: false
 social:
 #- icon: envelope
 #  icon_pack: fas
-#  link:  .
+#  link:  
+
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: 
+
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Vahid-Ahmadi-6
+  
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
+
 # - icon: linkedin
 #  icon_pack: fab
 #  link: 
