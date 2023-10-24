@@ -17,7 +17,7 @@ publishDate: "2023-10-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Postharvest Biology and Technology (in press)"
+publication: "*Postharvest Biology and Technology (in press)*"
 
 # abstract: 
 # links:
