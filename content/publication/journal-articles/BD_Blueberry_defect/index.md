@@ -17,7 +17,7 @@ publishDate: "2023-10-24T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agricultural Technology (under review)"
+publication: "*Smart Agricultural Technology (under review)*"
 
 # abstract: 
 # links:
