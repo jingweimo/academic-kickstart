@@ -1,5 +1,5 @@
 ---
-title: "Deep Object Detectors for Detecting Weeds for Precision Weed Control"
+title: "Fusing Spectral and Spatial Features of Hyperspectral Reflectance Imagery to Differentiate between Normal and Defective Blueberries"
 authors: 
 - B. Deng
 - Y. Lu
