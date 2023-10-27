@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - Renfu Lu
 date: "2023-10-24"
-# doi: "https://doi.org/10.1016/j.postharvbio.2022.112162"
+doi: "https://doi.org/10.1016/j.postharvbio.2022.112162"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-24T00:00:00Z"
@@ -17,9 +17,9 @@ publishDate: "2023-10-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Postharvest Biology and Technology (in press)*"
+publication: "*Postharvest Biology and Technology 207, 112627*"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0925521422003301?dgcid=coauthor
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0925521422003301?dgcid=coauthor
 ---
