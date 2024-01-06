@@ -65,12 +65,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-2023 Fall: BE491/891 Sensors & Robotics for Agricultural Systems, Michigan State University
+2024 Spring: BE815 Experimentition and Instrumentation for Biosystems Engineering (3 credits, lecture/lab), Michigan State University
 
-2022 Fall: ABE 4463/6463 Introduction to Imaging in Biological Systems, Mississippi State University
+2023 Fall: BE491/891 Sensors & Robotics for Agricultural Systems (3 credits, lecture), Michigan State University
 
-2022 Spring: ABE 4423/6423 Bioinstrumentation II, Mississippi State University
+2022 Fall: ABE 4463/6463 Introduction to Imaging in Biological Systems (3 credits, lecture), Mississippi State University
 
-2021 Fall: ABE 4990/6990 Introduction to Imaging in Biological Systems, Mississippi State University
+2022 Spring: ABE 4423/6423 Bioinstrumentation II (3 credits, lecture/lab), Mississippi State University
+
+2021 Fall: ABE 4990/6990 Introduction to Imaging in Biological Systems (3 credits, lecture), Mississippi State University
 
 Fall Semester: Problem Solving in Agricultural and Biological Engineering (to be developed for 2022 Fall) 
