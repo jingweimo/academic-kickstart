@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-2024 Spring: BE815 Experimentition and Instrumentation for Biosystems Engineering (3 credits, lecture/lab), Michigan State University
+2024 Spring: BE815 Experimentation and Instrumentation for Biosystems Engineering (3 credits, lecture/lab), Michigan State University
 
 2023 Fall: BE491/891 Sensors & Robotics for Agricultural Systems (3 credits, lecture), Michigan State University
 
