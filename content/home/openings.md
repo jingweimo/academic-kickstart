@@ -74,6 +74,6 @@ I am actively looking for a PhD graduate student to start in Summer/Fall 2024 in
 
 
 
-In additon, I also have Postdoc positions focusing on real-time machine vision system development for in-orchard and postharvest applications. The position can be started in Fall/Spring 2024 (for an intial one year with possibility of extension). Qualifications for this position include demonstrated experience in machine/computer vision, sensors and control, software-hardware integration, and strong publication records in engineering journals. 
+In additon, I also have Postdoc positions focusing on real-time machine vision system development for in-orchard and postharvest applications. The position can be started in Spring/Summer/Fall 2024 (for an intial one year with possibility of extension). Qualifications for this position include demonstrated experience in machine/computer vision, sensors and control, software-hardware integration, and strong publication records in engineering journals. 
 
 {{< icon name="download" pack="fas" >}} See the {{< staticref "media/PostdocPosition.pdf" "newtab" >}} Postdoc position{{< /staticref >}}.
