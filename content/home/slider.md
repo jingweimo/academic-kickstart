@@ -36,12 +36,12 @@ height = "calc(100vh - 70px)"
   
 [[item]]
   # title 
-  content = "Poultry Imaging for Defect Detection"
+  # content = "Poultry Imaging for Defect Detection"
   align = "right"  # Choose `center`, `left`, or `right`.
   
   # Overlay
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "20220812_PoultryImagingTech.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "PoultryImagingTech.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
