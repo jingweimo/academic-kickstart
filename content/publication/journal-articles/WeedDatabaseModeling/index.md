@@ -2,7 +2,7 @@
 title: "Weed Database Development: An Updated Survey of Public Weed Datasets and Cross-Season Weed Detection Adaptation"
 authors: 
 - B. Deng
-- Y. Lu* 
+- Y. Lu
 date: "2024-02-10"
 doi: ""
 
