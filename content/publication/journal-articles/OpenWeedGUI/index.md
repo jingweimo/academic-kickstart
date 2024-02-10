@@ -23,5 +23,6 @@ publication: "*Computers and Electronics in Agriculture (under review)*"
 # url_pdf:
 # url_dataset:
 # url_code: 
+url_video: media/OpenWeedGUI_FieldTest.mp4
 
 ---
