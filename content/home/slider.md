@@ -18,10 +18,10 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   # title = "On-farm Weed Imaging"
-  content = "On-farm Weed Imaging by Mobile Platforms"
+  # content = "On-farm Weed Imaging by Mobile Platforms"
   align = "right"
 
-  overlay_color = "#FFFF00"  # An HTML color value.
+  # overlay_color = "#FFFF00"  # An HTML color value.
   overlay_img = "WeedImaging.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
