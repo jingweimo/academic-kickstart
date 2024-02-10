@@ -21,9 +21,9 @@ height = "calc(100vh - 70px)"
   content = "On-farm Weed Imaging by Mobile Platforms"
   align = "right"
 
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#FFFF00"  # An HTML color value.
   overlay_img = "WeedImaging.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
   # title = "Outstanding Associate Editor Award"
@@ -42,7 +42,7 @@ height = "calc(100vh - 70px)"
   # Overlay
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "20220812_PoultryImagingTech.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
   # title 
