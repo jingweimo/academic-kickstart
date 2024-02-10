@@ -1,7 +1,7 @@
 ---
 title: "Non-Destructive Assessment of Microbial Spoilage of Broiler Breast Meat Using Structured Illumination Reflectance Imaging with Machine Learning"
 authors: 
-- E. Oaniyi
+- E. Olaniyi
 - Y. Lu
 - Xin Zhang
 - Anuraj T. Sukumaran
