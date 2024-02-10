@@ -27,6 +27,6 @@ publication: "*Ecological Informatics (under review)*"
 
 # url_dataset: ''
 
-url_video: 
+url_video: media/WeedDetection.mp4
 
 ---
