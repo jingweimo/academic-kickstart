@@ -22,6 +22,6 @@ publication: "*Computers and Electronics in Agriculture (under review)*"
 # url_pdf:
 # url_dataset:
 # url_code: 
-url_video: {{< staticref "media/SweetpotatoGrading.mp4" "newtab" >}} 
+url_video: {{< staticref "media/SweetpotatoGrading.mp4" "newtab" >}} Sweetpotato grading demo {{< /staticref >}}
 
 ---
