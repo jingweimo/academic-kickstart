@@ -16,7 +16,7 @@ publishDate: "2024-02-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecological Informatics (under review)*"
+publication: "*Ecological Informatics (in press)*"
 
 # abstract: 
 
