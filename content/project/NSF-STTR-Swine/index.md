@@ -1,5 +1,5 @@
 ---
-title: Swine Automatic Lameness Sensor (2023, NSF-STTR, $90,056)
+title: Swine Automatic Lameness Sensor (2023-2024, NSF-STTR, $90,056)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
