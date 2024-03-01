@@ -8,7 +8,7 @@ authors:
 - Hudson T. Thames
 - Diksha Pokhrel
 date: "2024-01-01"
-doi: ""
+doi: https://doi.org/10.1007/s12161-024-02605-w
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ publication: "*Food Analytical Methods (in press)*"
 # abstract: 
 
 # links
-# url_pdf: ''
+url_pdf: https://link.springer.com/article/10.1007/s12161-024-02605-w
 
 # url_code: ' '
 
