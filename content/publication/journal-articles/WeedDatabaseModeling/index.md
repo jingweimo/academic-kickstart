@@ -4,7 +4,7 @@ authors:
 - B. Deng
 - Y. Lu
 date: "2024-02-10"
-doi: ""
+doi: https://doi.org/10.1016/j.ecoinf.2024.102546
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-02-10T00:00:00Z"
@@ -21,7 +21,7 @@ publication: "*Ecological Informatics (in press)*"
 # abstract: 
 
 # links
-# url_pdf: ''
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1574954124000888
 
 # url_code: ' '
 
