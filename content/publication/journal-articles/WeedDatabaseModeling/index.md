@@ -26,7 +26,9 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S1574954124000888
 # url_code: ' '
 
 # url_dataset: ''
-
+url_code: 'https://github.com/vicdxxx/CrossSeasonWeedDetection'
+url_dataset: 'https://zenodo.org/records/10762138'
 url_video: media/WeedDetection.mp4
+
 
 ---
