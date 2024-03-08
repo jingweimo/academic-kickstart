@@ -3,6 +3,7 @@ title: "Weed Database Development: An Updated Survey of Public Weed Datasets and
 authors: 
 - B. Deng
 - Y. Lu
+- J. Xu
 date: "2024-02-10"
 doi: https://doi.org/10.1016/j.ecoinf.2024.102546
 
