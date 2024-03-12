@@ -4,7 +4,7 @@ authors:
 - Jiajun Xu
 - Y. Lu
 date: "2024-03-07"
-# doi: 
+doi: https://doi.org/10.1016/j.compag.2024.108826
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-07T00:00:00Z"
 
@@ -19,7 +19,7 @@ publication: "*Computers and Electronics in Agriculture (in press)*"
 
 # abstract: 
 # links: 
-# url_pdf:
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0168169924002175
 # url_dataset:
 # url_code: 
 url_video: media/SweetpotatoGrading.mp4
