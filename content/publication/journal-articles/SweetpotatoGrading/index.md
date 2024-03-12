@@ -4,7 +4,7 @@ authors:
 - Jiajun Xu
 - Y. Lu
 date: "2024-03-07"
-doi: 10.1016/j.compag.2024.108826
+doi: https://doi.org/10.1016/j.compag.2024.108826
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-07T00:00:00Z"
 
