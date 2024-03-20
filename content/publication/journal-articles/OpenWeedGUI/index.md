@@ -16,7 +16,7 @@ publishDate: "2024-02-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (under review)*"
+publication: "*Electronics (under review)*"
 
 # abstract: 
 # links: 
