@@ -10,7 +10,7 @@ authors:
 - Cranos Williams
 - Mohammed Kamruzzamn
 date: "2024-03-19"
-# doi: 
+doi: https://doi.org/10.1016/j.compag.2024.108855 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-03-19T00:00:00Z"
 
@@ -21,11 +21,11 @@ publishDate: "2024-03-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (in press)*"
+publication: "*Computers and Electronics in Agriculture 220, 108855*"
 
 # abstract: 
 # links: 
-# url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169924002461
 # url_dataset:
 # url_code: 
 # url_video: 
