@@ -20,7 +20,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Food Analytical Methods (in press)*"
+publication: "*Food Analytical Methods*"
 
 # abstract: 
 
