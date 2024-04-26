@@ -4,10 +4,10 @@ authors:
 - Jiajun Xu
 - Y. Lu
 - B. Deng
-date: "2024-02-03"
+date: "2024-04-26"
 # doi: 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-03T00:00:00Z"
+publishDate: "2024-04-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2024-02-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Electronics (under review)*"
+publication: "*Electronics (in press)*"
 
 # abstract: 
 # links: 
