@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - B. Deng
 date: "2024-04-26"
-# doi: 
+doi: https://doi.org/10.3390/electronics13091699 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-04-26T00:00:00Z"
 
@@ -16,13 +16,14 @@ publishDate: "2024-04-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Electronics (in press)*"
+publication: "*Electronics 13(9), 1699*"
 
 # abstract: 
 # links: 
-# url_pdf:
-# url_dataset:
+url_pdf: https://www.mdpi.com/2079-9292/13/9/1699
+url_dataset: https://zenodo.org/records/7535814
 # url_code: 
 url_video: media/OpenWeedGUI_FieldTest.mp4
+url_code: https://github.com/XU-JIA-JUN/OpenWeed-GUI-PyQt5-YOLO
 
 ---
