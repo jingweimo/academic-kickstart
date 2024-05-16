@@ -1,5 +1,5 @@
 ---
-title: "Fusing Spectral and Spatial Features of Hyperspectral Reflectance Imagery to Differentiate between Normal and Defective Blueberries"
+title: "Fusing Spectral and Spatial Features of Hyperspectral Reflectance Imagery for Differentiating between Normal and Defective Blueberries"
 authors: 
 - B. Deng
 - Y. Lu
@@ -17,12 +17,12 @@ publishDate: "2024-05-14T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Smart Agricultural Technology (in press)*"
+publication: "*Smart Agricultural Technology  100473"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375522000910
-# url_dataset: www.kaggle.com/yuzhenlu/cottonweeddet3
-# url_code: https://github.com/abdurrahman1828/DNNs-for-Weed-Detections
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375524000789
+url_dataset: https://zenodo.org/records/11200576
+url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
 
 ---
