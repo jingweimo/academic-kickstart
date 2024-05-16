@@ -17,7 +17,7 @@ publishDate: "2024-05-14T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Smart Agricultural Technology  100473"
+publication: "Smart Agricultural Technology  100473"
 
 # abstract: 
 # links:
