@@ -18,7 +18,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   # title = "On-farm Imaging"
-  # content = "On-farm Imaging by Mobile Platforms"
+  content = "On-farm Imaging by Mobile Platforms"
   align = "right"
 
   # overlay_color = "#FFFF00"  # An HTML color value.
