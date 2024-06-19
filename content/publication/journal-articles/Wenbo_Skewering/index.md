@@ -7,11 +7,11 @@ authors:
 - Yupeng Cao
 - Y. Lu
 - Xin Zhang
-date: "2024-02-21"
+date: "2024-06-19"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-21T00:00:00Z"
+publishDate: "2024-06-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2024-02-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of the ASABE (under review)*"
+publication: "*Journal of the ASABE (in press)*"
 
 # abstract: 
 
