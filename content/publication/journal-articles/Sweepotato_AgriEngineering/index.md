@@ -19,9 +19,9 @@ publication: "*AgriEngineering (under review)*"
 
 # abstract: 
 # links: 
-url_pdf: https://doi.org/10.1117/12.3013972
+# url_pdf: https://doi.org/10.1117/12.3013972
 # url_dataset:
 # url_code: 
-# url_video: media/SweetpotatoGrading.mp4
+url_video: https://doi.org/10.1117/12.3013972
 
 ---
