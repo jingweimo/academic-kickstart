@@ -9,7 +9,7 @@ date: "2023-11-08"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-11-08T00:00:00Z"
+publishDate: "2024-07-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publishDate: "2023-11-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (in press)*"
+publication: "*Computers and Electronics in Agriculture (under review)*"
 # abstract: " " 
 
 
