@@ -5,7 +5,7 @@ authors:
 - J. Alex Thomasson
 - Y. Lu
 - K. Raja Reddy
-date: "2023-11-08"
+date: "2024-07-08"
 # doi: " "
 
 # Schedule page publish date (NOT publication's date).
@@ -24,6 +24,6 @@ publication: "*Computers and Electronics in Agriculture (under review)*"
 
 # links:
 # url_pdf: 
-url_dataset: 'https://github.com/hussein-pasha/Robotic-Cotton-Harvester'
+url_dataset: https://github.com/hussein-pasha/Robotic-Cotton-Harvester
 url_video: https://youtu.be/IztKk3E7zSc
 ---
