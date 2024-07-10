@@ -24,4 +24,6 @@ publication: "*Computers and Electronics in Agriculture (under review)*"
 
 # links:
 # url_pdf: 
+url_dataset: 'https://github.com/hussein-pasha/Robotic-Cotton-Harvester'
+url_video: https://youtu.be/IztKk3E7zSc
 ---
