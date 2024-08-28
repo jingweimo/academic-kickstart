@@ -15,7 +15,7 @@ publishDate: "2024-06-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*AgriEngineering (under review)*"
+publication: "*AgriEngineering (in press)*"
 
 # abstract: 
 # links: 
