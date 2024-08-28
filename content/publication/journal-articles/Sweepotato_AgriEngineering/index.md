@@ -3,10 +3,10 @@ title: "Design and Preliminary Evaluation of Automated Sweetpotato Sorting Mecha
 authors: 
 - Jiajun Xu
 - Y. Lu
-date: "2024-06-18"
+date: "2024-08-28"
 # doi: https://doi.org/10.1016/j.compag.2024.108826
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-19T00:00:00Z"
+publishDate: "2024-08-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
