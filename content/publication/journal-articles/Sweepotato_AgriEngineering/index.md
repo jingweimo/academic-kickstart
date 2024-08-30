@@ -15,11 +15,11 @@ publishDate: "2024-08-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*AgriEngineering (in press)*"
+publication: "*AgriEngineering 6(3), 3058-3069*"
 
 # abstract: 
 # links: 
-# url_pdf: https://doi.org/10.1117/12.3013972
+url_pdf: https://www.mdpi.com/2624-7402/6/3/175
 # url_dataset:
 # url_code: 
 url_video: https://doi.org/10.1117/12.3013972
