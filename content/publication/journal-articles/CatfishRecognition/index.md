@@ -9,7 +9,7 @@ authors:
 - Xin Zhang
 - Sam Chang
 date: "2024-08-17"
-doi: ""
+doi: "https://doi.org/10.1111/jfpe.14726"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-17T00:00:00Z"
@@ -21,12 +21,12 @@ publishDate: "2024-08-17T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Food Process Engineering (in press)*"
+publication: "*Journal of Food Process Engineering 47, e14726*"
 
 # abstract: 
 
 # links
-# url_pdf: ''
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1111/jfpe.14726'
 
 # url_code: ' '
 
