@@ -1,5 +1,5 @@
 ---
-title: Three our publications are recognized as ESI Highly Cited papers 👋👋
+title: Three our recent publications are recognized as ESI Highly Cited papers 👋👋
 subtitle: 
 
 # Summary for listings and search engines
