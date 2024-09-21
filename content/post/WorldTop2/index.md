@@ -1,5 +1,5 @@
 ---
-title: Congratulations on being recognized among the World Top 2% Scientists based on Standford and Elsevier Data (https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7) 👋👋
+title: Congratulations on being recognized among the World Top 2% Scientists based on Standford and Elsevier Data 👋👋
 subtitle: 
 
 # Summary for listings and search engines
