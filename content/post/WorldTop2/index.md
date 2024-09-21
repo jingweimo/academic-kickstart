@@ -1,6 +1,6 @@
 ---
 title: Congratulations on being recognized among the World Top 2% Scientists based on Standford and Elsevier Data (DOI:
-10.17632/btchxktzyw.7) 👋👋
+10.17632/btchxktzyw.7)👋👋
 subtitle: 
 
 # Summary for listings and search engines
