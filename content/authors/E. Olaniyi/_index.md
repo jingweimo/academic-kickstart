@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ebenezer Olaniyi ((graduate student, 2021-2023)
+title: Ebenezer Olaniyi (graduate student, 2021-2023)
 name: Ebenezer Olaniyi
 
 # Username (this should match the folder name)
