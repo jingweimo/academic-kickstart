@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yibin Wang (former postdoc during 2023-2024)
+title: Yibin Wang (postdoc, 2023-2024)
 name: Yin Wang
 
 # Username (this should match the folder name)
