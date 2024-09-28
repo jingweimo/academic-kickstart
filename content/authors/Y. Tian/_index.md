@@ -48,9 +48,9 @@ social:
   icon_pack: fas
   link: 'mailto:tianyuyu@msu.edu'
   
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=aOwA58IAAAAJ
 
 # - icon: researchgate
 #  icon_pack: ai
