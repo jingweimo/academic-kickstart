@@ -49,7 +49,7 @@ social:
   link: 'mailto:dengboy1@msu.edu' 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=X6-BhfgAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=Sdj3Ru8AAAAJ&hl=zh-CN&oi=sra
 # - icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Ebenezer-Olaniyi
