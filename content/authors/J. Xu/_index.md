@@ -50,7 +50,7 @@ social:
   
 - icon: google-scholar
   icon_pack: ai
-  # link:
+  link: https://scholar.google.com/citations?user=LOlUYPgAAAAJ&hl=zh-CN&oi=ao
   
 - icon: researchgate
   icon_pack: ai
