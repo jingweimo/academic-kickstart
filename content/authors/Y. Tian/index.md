@@ -46,7 +46,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:atlasli0813@gmail.com' 
+  link: 'mailto:tianyuyu@msu.edu' 
 - icon: google-scholar
   icon_pack: ai
   link: 
@@ -67,7 +67,7 @@ social:
 #  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mailto:atlasli0813@gmail.com"
+email: "mailto:tianyuyu@msu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
