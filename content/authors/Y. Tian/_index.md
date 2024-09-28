@@ -46,10 +46,12 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tianyuyu@msu.edu' 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+  link: 'mailto:tianyuyu@msu.edu'
+  
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 
+
 # - icon: researchgate
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Ebenezer-Olaniyi
