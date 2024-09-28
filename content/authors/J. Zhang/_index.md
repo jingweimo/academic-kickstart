@@ -48,9 +48,9 @@ social:
   icon_pack: fas
   link: 'mailto:zhan2374@msu.edu'
   
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=X6-BhfgAAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.hk/citations?user=kEJINEIAAAAJ&hl=en)
 
 # - icon: researchgate
 #  icon_pack: ai
