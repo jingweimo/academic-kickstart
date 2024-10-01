@@ -47,7 +47,7 @@ social:
 
 - icon: google-scholar
   icon_pack: ai
- link: https://scholar.google.com/citations?user=MRn1e2kAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=MRn1e2kAAAAJ&hl=en
 
 # - icon: researchgate
 #  icon_pack: ai
