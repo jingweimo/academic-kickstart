@@ -16,7 +16,7 @@ publishDate: "2024-10-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Food Engineering (submitted to journal)*"
+publication: "*Journal of Food Engineering (under review)*"
 
 # abstract: 
 
