@@ -1,5 +1,5 @@
 ---
-title: Utilize Machine Vision Technology to Improve Efficiency and Reduce Labor of Local Sweetpotato Packing Lines (2021-2023, USDA-AMS-SCBGP)
+title: Utilize Machine Vision Technology to Improve Efficiency and Reduce Labor of Local Sweetpotato Packing Lines (2021-2023, USDA-AMS-SCBGP, Completed)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
