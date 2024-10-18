@@ -1,5 +1,5 @@
 ---
-title: Nondestructive Detection of Spotted Wing Drosophila Infestation in Blueberry Fruit Using Optical Imaging (2021-2023, USDA-AMS-SCBGP)
+title: Nondestructive Detection of Spotted Wing Drosophila Infestation in Blueberry Fruit Using Optical Imaging (2021-2023, USDA-AMS-SCBGP, Completed)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
