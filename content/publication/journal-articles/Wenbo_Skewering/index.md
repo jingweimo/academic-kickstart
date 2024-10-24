@@ -20,7 +20,7 @@ publishDate: "2024-08-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of the ASABE (in press)*"
+publication: "*Journal of the ASABE 67 (5), 1181-1190*"
 
 # abstract: 
 
