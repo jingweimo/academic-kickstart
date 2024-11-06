@@ -24,3 +24,4 @@ publication: "Applied Engineering in Agriculture (submitted to journal)"
 # url_pdf: https://doi.org/10.1016/j.atech.2024.100620
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/vicdxxx/BlueberryDetectionAndCounting
+---
