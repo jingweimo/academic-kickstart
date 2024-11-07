@@ -17,12 +17,12 @@ publishDate: "2024-11-03T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agricultural Technology (in press)"
+publication: "Smart Agricultural Technology 9, 100620"
 
 # abstract: 
 # links:
 url_pdf: https://doi.org/10.1016/j.atech.2024.100620
 # url_dataset: https://zenodo.org/records/11200576
 url_code: https://github.com/vicdxxx/BlueberryDetectionAndCounting
-
+url_data: https://zenodo.org/records/14002517
 ---
