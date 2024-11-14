@@ -16,7 +16,7 @@ publishDate: "2024-10-14T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Robotics and Autonomous Systems (under review)"
+publication: "Journal of Field Robotics (under review)"
 
 # abstract: 
 # links:
