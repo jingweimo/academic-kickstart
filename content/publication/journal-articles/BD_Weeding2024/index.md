@@ -3,6 +3,7 @@ title: "Development and Preliminary Evaluation of a Machine Vision-Guided Smart 
 authors: 
 - B. Deng
 - Y. Lu
+- Daniel Brainard
 date: "2024-10-14"
 # doi: "https://doi.org/10.1016/j.atech.2022.100126"
 
