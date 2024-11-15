@@ -17,7 +17,7 @@ publishDate: "2024-11-05T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Engineering in Agriculture (submitted to journal)"
+publication: "Applied Engineering in Agriculture (under review)"
 
 # abstract: 
 # links:
