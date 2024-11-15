@@ -35,12 +35,12 @@ education:
   - course: PhD in Biosystems Engineering
     institution: Michigan State University
     year: 2018
-  - course: MS in Plant Nutrition
-    institution: University of Chinese Academy of Sciences
-    year: 2014
-  - course: BS in Facility Agriculture Engineering
-    institution: Northwest A&F University
-    year: 2011
+  # - course: MS in Plant Nutrition
+    # institution: University of Chinese Academy of Sciences
+    # year: 2014
+  # - course: BS in Facility Agriculture Engineering
+    # institution: Northwest A&F University
+    # year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/ and https://jpswalsh.github.io/academicons/
