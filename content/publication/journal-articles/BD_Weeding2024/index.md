@@ -21,7 +21,7 @@ publication: "Journal of Field Robotics (under review)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375524000789
+url_pdf: https://elibrary.asabe.org/abstract.asp?aid=55083
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
 
