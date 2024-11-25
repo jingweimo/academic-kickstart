@@ -19,7 +19,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   # title = "On-farm Imaging"
   content = "On-farm Machine Vision"
-  align = "right"
+  align = "center"
 
   # overlay_color = "#FFFF00"  # An HTML color value.
   overlay_img = "FieldImaging.png"  # Image path relative to your `static/media/` folder.
