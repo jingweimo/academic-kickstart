@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingjun Li
+title: Mingjun Li (intern, 2024 summer)
 name: Mingjun Li
 
 # Username (this should match the folder name)
@@ -72,6 +72,6 @@ email: "mailto:atlasli0813@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Graduate Assistants
+ - Alumni
 # - Visitors
 ---
