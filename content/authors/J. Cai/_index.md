@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiaxu Cai
+title: Jiaxu Cai (graduate student, 2023-2024)
 name: Jiaxu Cai
 
 # Username (this should match the folder name)
@@ -72,5 +72,5 @@ email: 'caijiaxu2000@gmail.com'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Graduate Assistants
+ - Alumni 
 ---
