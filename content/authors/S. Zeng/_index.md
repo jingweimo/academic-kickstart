@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shuochong Zeng
+title: Shuochong Zeng (graduate student, 2024)
 name: Shuochong Zeng
 
 # Username (this should match the folder name)
@@ -72,5 +72,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Graduate Assistants
+ - Alumni
 ---
