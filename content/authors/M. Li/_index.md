@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingjun Li (intern, 2024 summer)
+title: Mingjun Li (PhD intern, 2024 summer)
 name: Mingjun Li
 
 # Username (this should match the folder name)
