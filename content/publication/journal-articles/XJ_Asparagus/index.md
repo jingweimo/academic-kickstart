@@ -16,7 +16,7 @@ publishDate: "2024-11-04T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biosystems Engineering (submitted to Journal)"
+publication: "Biosystems Engineering (under review)"
 
 # abstract: 
 # links:
