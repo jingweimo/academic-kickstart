@@ -4,7 +4,7 @@ authors:
 - Jiaxu Cai
 - Y. Lu
 date: "2024-12-25"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2024.112459"
+doi: "https://doi.org/10.1016/j.jfoodeng.2024.112459"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-12-25T00:00:00Z"
