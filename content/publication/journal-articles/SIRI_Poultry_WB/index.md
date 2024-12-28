@@ -4,7 +4,7 @@ authors:
 - Jiaxu Cai
 - Y. Lu
 date: "2024-12-25"
-# doi: "https://doi.org/10.1111/jfpe.14726"
+# doi: "https://doi.org/10.1016/j.jfoodeng.2024.112459"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-12-25T00:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2024-12-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Food Engineering (in press)*"
+publication: "*Journal of Food Engineering, 112459*"
 
 # abstract: 
 
@@ -25,6 +25,6 @@ publication: "*Journal of Food Engineering (in press)*"
 
 # url_code: ' '
 
-# url_dataset: ''
+url_dataset: https://zenodo.org/records/14558847
 
 ---
