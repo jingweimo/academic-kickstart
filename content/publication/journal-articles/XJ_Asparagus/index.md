@@ -16,7 +16,7 @@ publishDate: "2025-01-03T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Precision Agriculture (under review)"
+publication: "Journal of the ASABE (under review)"
 
 # abstract: 
 # links:
