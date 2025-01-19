@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Jiaxu Cai for his graduation with a MS degree 👋👋. Well done with two years but three peer-reviewed publications and one book chapter! Best wishes for your future endeavors.
+title: Congratulations to Jiaxu Cai for his graduation with a MS degree 👋👋. Well done with two years but three peer-reviewed publications and one book chapter! Best wishes for his future endeavors.
 subtitle: 
 
 # Summary for listings and search engines
