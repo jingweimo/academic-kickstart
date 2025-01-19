@@ -1,6 +1,6 @@
 ---
-title: Our specialty crop automation research is making headlines https://www.canr.msu.edu/news/msu-ag-engineer-designing-innovative-technologies-to-support-specialty-crop-production and https://www.michiganfarmnews.com/msu-ag-engineer-designing-innovative-technologies-to-support-specialty-crop-production
-subtitle: 
+title: Our specialty crop automation research is making headlines 
+subtitle: https://www.canr.msu.edu/news/msu-ag-engineer-designing-innovative-technologies-to-support-specialty-crop-production and https://www.michiganfarmnews.com/msu-ag-engineer-designing-innovative-technologies-to-support-specialty-crop-production
 
 # Summary for listings and search engines
 summary:
