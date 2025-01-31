@@ -46,7 +46,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'xmm5005@psu.edu'  # For a direct email link, use "jilinxujiajun@gmail.com".
+  link: 'naseeb501@gmail.com'  # For a direct email link, use "jilinxujiajun@gmail.com".
   
 - icon: google-scholar
   icon_pack: ai
