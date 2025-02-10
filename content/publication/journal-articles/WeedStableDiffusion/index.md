@@ -3,10 +3,10 @@ title: "Weed Image Augmentation by ControlNet-Added Stable Diffusion for Multi-c
 authors: 
 - Boyang Deng
 - Y. Lu
-date: "2024-08-28"
+date: "2025-02-10"
 # doi: https://doi.org/10.1016/j.compag.2024.108826
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-28T00:00:00Z"
+publishDate: "2025-02-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +15,7 @@ publishDate: "2024-08-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers and Electronics in Agriculture (under review)*"
+publication: "*Computers and Electronics in Agriculture (in press)*"
 
 # abstract: 
 # links: 
