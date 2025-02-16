@@ -1,5 +1,5 @@
 ---
-title: I was recently on the MarketToMarket channel to talk about research on automated asparagus harvesters and mobile machine vision for blueberries. 
+title: Recently on the MarketToMarket channel to talk about research on automated asparagus harvesters and mobile machine vision for blueberries. 
 subtitle: 
 
 # Summary for listings and search engines
