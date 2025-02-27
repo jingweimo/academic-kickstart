@@ -4,7 +4,7 @@ authors:
 - B. Deng
 - Y. Lu
 date: "2025-02-25"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+doi: "https://doi.org/10.48550/arXiv.2502.17673"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-25T01:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2025-02-25T01:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv preprint"
+publication: "arXiv:2502.17673"
 
 # abstract: 
 # links:
