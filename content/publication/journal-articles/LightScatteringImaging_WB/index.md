@@ -3,10 +3,10 @@ title: "Detection of Woody Breast Condition in Broiler Breast Fillets using Ligh
 authors: 
 - Jiaxu Cai
 - Y. Lu
-date: "2024-11-21"
-# doi: https://doi.org/10.1016/j.compag.2024.108826
+date: "2025-01-21"
+doi: https://doi.org/10.13031/ja.16108
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-21T00:00:00Z"
+publishDate: "2025-01-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,11 +15,11 @@ publishDate: "2024-11-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of the ASABE (accepted)*"
+publication: "*Journal of the ASABE 68(1): 13-24*"
 
 # abstract: 
 # links: 
-url_pdf: https://doi.org/10.1117/12.3013464
+url_pdf: https://elibrary.asabe.org/abstract.asp?aid=55170
 # url_dataset:
 # url_code: 
 # url_video: media/SweetpotatoGrading.mp4
