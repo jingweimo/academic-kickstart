@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Krishna Chaitanya Ginne
+title: Krishna Chaitanya Ginne (Research Assistant, 2024)
 name: Krishna Chaitanya Ginne
 
 # Username (this should match the folder name)
@@ -72,5 +72,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Graduate Assistants
+- Alumni 
 ---
