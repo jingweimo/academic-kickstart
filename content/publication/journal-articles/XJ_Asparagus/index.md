@@ -4,7 +4,7 @@ authors:
 - J. Xu
 - Y. Lu
 date: "2025-01-03"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+doi: "https://doi.org/10.13031/ja.16309"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-03T01:00:00Z"
