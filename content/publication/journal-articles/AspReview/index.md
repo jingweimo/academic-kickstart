@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - Parvin Mohammadi
 date: "2025-04-11"
-# doi: https://doi.org/10.1016/j.compag.2023.108517
+doi: http://doi.org/10.13140/RG.2.2.15872.34565/1
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-11T00:00:00Z"
