@@ -49,9 +49,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=TdBa8jwAAAAJ&hl=en
 
-# - icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Vahid-Ahmadi-6
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ashfak_Yeafi
   
 # - icon: twitter
 #  icon_pack: fab
