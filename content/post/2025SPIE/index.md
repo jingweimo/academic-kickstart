@@ -1,6 +1,6 @@
 ---
-title: We delievered six presentations sensing/automation for food qualilty and specialty crop production on the 2025 SPIE Defense + Commerical Sensing Conference. Stay tuned to our conference papers to be posted by the SPIE soon. 
-subtitle: 
+title: We delievered six presentations on sensing/automation for food qualilty & specialty crop production on the 2025 SPIE Defense + Commerical Sensing Conference. 
+subtitle: Stay tuned to our conference papers to be posted by the SPIE soon. 
 
 # Summary for listings and search engines
 # summary: "
