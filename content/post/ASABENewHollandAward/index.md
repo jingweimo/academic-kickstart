@@ -1,5 +1,5 @@
 ---
-title: Congratulations on being selected for the 2025 ASABE New Holland Young Researcher Award 👋👋
+title: Congratulations to Dr. Lu on being selected for the 2025 ASABE New Holland Young Researcher Award 👋👋
 subtitle: 
 
 # Summary for listings and search engines
