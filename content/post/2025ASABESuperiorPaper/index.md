@@ -1,5 +1,5 @@
 ---
-title: Our paper has been selected to receive a 2025 ASABE Superior Paper Award: “Design, Prototyping, and Evaluation of A New Machine Vision-Based Automated Sweetpotato Grading and Sorting System”. Congratulations! 👋👋
+title: Our paper published in the Journal of the ASABE has been selected to receive a 2025 ASABE Superior Paper Award. Congratulations! 👋👋
 subtitle: 
 
 # Summary for listings and search engines
