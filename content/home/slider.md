@@ -24,7 +24,8 @@ height = "calc(100vh - 70px)"
   # overlay_color = "#FFFF00"  # An HTML color value.
   overlay_img = "FieldImaging.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-
+  
+[[item]]
   # title = "Postharvest Sensing"
   content = "Postharvest Sensing"
   align = "center"
