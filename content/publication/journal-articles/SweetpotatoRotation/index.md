@@ -16,7 +16,7 @@ publishDate: "2025-05-19T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (submitted to journal)"
+publication: "Biosystems Engineering (submitted to journal)"
 
 # abstract: 
 # links:
