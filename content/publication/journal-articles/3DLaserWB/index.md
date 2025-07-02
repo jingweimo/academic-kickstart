@@ -3,7 +3,6 @@ title: "A New Laser Profiling System for Online, Real-Time Detection of Broiler 
 authors: 
 - J. Zhang
 - Y. Lu
-- Eric Stafne
 date: "2025-07-1"
 # doi: "https://doi.org/10.1016/j.atech.2022.100126"
 
