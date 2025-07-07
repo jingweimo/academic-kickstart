@@ -16,7 +16,7 @@ publishDate: "2025-02-20T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications (under review)"
+publication: "Agricultural Communications (in press)"
 
 # abstract: 
 # links:
