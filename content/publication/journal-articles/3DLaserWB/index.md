@@ -22,6 +22,6 @@ publication: "Journal of Food Engineering (under review)"
 # links:
 # url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375524000789
 # url_dataset: https://zenodo.org/records/11200576
-# url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
+url_code: https://github.com/CharmingZh/3DLaserPoultry
 
 ---
