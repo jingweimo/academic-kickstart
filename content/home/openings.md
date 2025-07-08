@@ -74,6 +74,6 @@ I am actively looking for motivated PhD (and or MS) graduate students to start i
 
 
 
-In additon, I also have Postdoc positions focusing on harvest automation for specialty crops. The position can be started in Spring 2025 (for an intial one year with possibility of extension). Qualifications for this position include demonstrated experience in machine/computer vision, hardware prototyping, sensors and control, system integration, and strong publication records in engineering journals. 
+In additon, I also have Postdoc positions focusing on harvest automation for specialty crops. The position can be started in Fall 2025. Qualifications for this position include demonstrated experience in machine/computer vision, hardware prototyping, sensors and control, system integration, and strong publication records in engineering journals. 
 
 {{< icon name="download" pack="fas" >}} See the {{< staticref "media/PostdocPosition4_updated.pdf" "newtab" >}} Postdoc position{{< /staticref >}}.
