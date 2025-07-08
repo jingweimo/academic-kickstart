@@ -4,7 +4,7 @@ authors:
 - X. Mu
 - Y. Lu
 # date: "2025-07-07"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+doi: "https://doi.org/10.1016/j.agrcom.2025.100096"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-07T01:00:00Z"
