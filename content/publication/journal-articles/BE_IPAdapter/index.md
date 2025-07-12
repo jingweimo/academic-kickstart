@@ -16,7 +16,7 @@ publishDate: "2025-05-25T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Engineering Applications of Artificial Intelligence (submitted to journal)"
+publication: "Engineering Applications of Artificial Intelligence (under review)"
 
 # abstract: 
 # links:
