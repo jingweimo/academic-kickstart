@@ -22,7 +22,7 @@ height = "calc(100vh - 70px)"
   align = "center"
 
   # overlay_color = "#FFFF00"  # An HTML color value.
-  overlay_img = "2025ASABEAwards.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "2025ASABEAwards.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
