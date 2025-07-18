@@ -4,11 +4,11 @@ title: "Automated Asparagus Harvesting Technology: A Review of Research and Deve
 authors:
 - Y. Lu
 - Parvin Mohammadi
-date: "2025-04-11"
-doi: http://doi.org/10.13140/RG.2.2.15872.34565/1
+date: "2025-07-11"
+doi: https://doi.org/10.1016/j.compag.2025.110744
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-11T00:00:00Z"
+publishDate: "2025-07-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,13 +17,13 @@ publishDate: "2025-04-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (in press)"
+publication: "Computers and Electronics in Agriculture 237, 110744"
 
 
 # abstract: 
 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169923009055?dgcid=coauthor
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169925008506
 
 ---
 
