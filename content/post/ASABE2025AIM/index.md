@@ -9,10 +9,10 @@ summary: "Stay tuned to our conference papers to be posted by the ASABE soon."
 projects: []
 
 # Date published
-date: "2025-04-22T00:00:00Z"
+date: "2025-07-18T00:00:00Z"
 
 # Date updated
-lastmod: "2025-04-22T00:00:00Z"
+lastmod: "2025-07-18T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
