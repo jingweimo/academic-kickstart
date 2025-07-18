@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of A Roller-Conveyor-Based Machine Vision System for Sweetpotato Rotation Behavior and Full-Surface Imaging"
+title: "Evaluation of Sweetpotato Rotation Behavior and Full-Surface Imaging on A Roller-Conveyor-Based Machine Vision System"
 authors: 
 - J. Xu
 - Y. Lu
