@@ -18,7 +18,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   # title = "2025ASABEAards"
-  content = "ASABE 2025 AIM in Toronton, Canada"
+  content = "ASABE 2025 AIM in Toronto, Canada"
   align = "center"
 
   # overlay_color = "#FFFF00"  # An HTML color value.
