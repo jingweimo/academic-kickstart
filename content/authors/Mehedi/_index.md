@@ -45,9 +45,9 @@ social:
 #  icon_pack: fas
 #  link:  
 
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=TdBa8jwAAAAJ&hl=en
+- icon: google-scholar
+icon_pack: ai
+link: https://scholar.google.com/citations?user=i_9-VFoAAAAJ&hl=en
 
 #- icon: researchgate
 #  icon_pack: ai
@@ -68,7 +68,7 @@ social:
 #  #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: yeafiashfak@gmail.com
+email: mehedihasan162120@gmail.com
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
