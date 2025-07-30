@@ -7,7 +7,7 @@ authors:
 doi: "https://doi.org/10.1016/j.agrcom.2025.100096"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-07T01:00:00Z"
+publishDate: "2025-07-29T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,11 +16,11 @@ publishDate: "2025-07-07T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications (in press)"
+publication: "Agricultural Communications 3（3）， 100096"
 
 # abstract: 
 # links:
-url_pdf: https://doi.org/10.21203/rs.3.rs-6055969/v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2949798125000262?via%3Dihub
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
 
