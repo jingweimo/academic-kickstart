@@ -1,5 +1,5 @@
 ---
-title: We demonstrated our two custom-designed precision weeding systyems on the MSU HTRC farm to the USDA S1090 (https://nimss.org/projects/view/18868) multistate group (AI in Agroecosystems: Big Data and Smart Technology-Driven Sustainable Production).
+title: We demonstrated our two custom-designed precision weeding systyems on the MSU HTRC farm to the USDA S1090 (https://nimss.org/projects/view/18868) multistate group.
 subtitle: 
 
 # Summary for listings and search engines
