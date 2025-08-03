@@ -3,7 +3,7 @@ title: We demonstrated our two custom-designed precision weeding systyems on the
 subtitle: Check the link https://nimss.org/projects/view/18868 for the S1090 group. 
 
 # Summary for listings and search engines
-summary: "Stay tuned to our future demos to vegetable growers."
+summary: "Stay tuned to our future demos to vegetable growers and relevant publications."
 
 # Link this post with a project
 projects: []
