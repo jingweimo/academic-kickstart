@@ -16,6 +16,15 @@ height = "calc(100vh - 70px)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+ [[item]]
+  # title = "InfieldWeedingDemo"
+  content = "Precision Weeding Demo"
+  align = "center"
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "WeedingDemo.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  
 [[item]]
   # title = "2025ASABEAards"
   content = "ASABE 2025 AIM in Toronto, Canada"
