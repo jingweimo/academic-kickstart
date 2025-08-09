@@ -16,7 +16,7 @@ publishDate: "2025-07-29T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications 3（3）， 100096"
+publication: "Agricultural Communications 3(3), 100096"
 
 # abstract: 
 # links:
