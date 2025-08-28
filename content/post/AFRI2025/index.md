@@ -1,5 +1,5 @@
 ---
-title: We are receiving new competitive funding from USDA-NIFA on postharvest automation technology development for green asparagus 👋👋.  Openinings are immediately available for PhD/MS. Contact me if you are interested.
+title: We are receiving new competitive funding from USDA-NIFA on postharvest automation technology development for green asparagus 👋👋.  Openinings are immediately available for PhD/MS. Contact me asap if you are interested.
 subtitle: 
 
 # Summary for listings and search engines
