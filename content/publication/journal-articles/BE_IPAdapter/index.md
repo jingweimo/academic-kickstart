@@ -3,11 +3,11 @@ title: "IP-Adapter-Based Stable Diffusion for Multi-class Weed Generation and De
 authors: 
 - B. Deng
 - Y. Lu
-date: "2025-05-25"
+date: "2025-08-31"
 doi: "https://doi.org/10.1117/12.3052285"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-25T01:00:00Z"
+publishDate: "2025-08-31T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2025-05-25T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Engineering Applications of Artificial Intelligence (under review)"
+publication: "Smart Agricultural Technology (under review)"
 
 # abstract: 
 # links:
