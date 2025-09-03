@@ -16,7 +16,7 @@ publishDate: "2025-08-31T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ecological Informatics (under review)"
+publication: "Journal of Agriculture and Food Research (under review)"
 
 # abstract: 
 # links:
