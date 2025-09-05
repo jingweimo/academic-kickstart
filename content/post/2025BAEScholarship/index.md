@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Boyang Deng for being awarded to the BAE Graduate Scholarship (Galen and Ann Brown Scholarship, $2,000) 👋👋. Keep up the good work!
+title: Congratulations to Boyang Deng for being awarded the BAE Graduate Scholarship (Galen and Ann Brown Scholarship, $2,000) 👋👋. Keep up the good work!
 subtitle: 
 
 # Summary for listings and search engines
