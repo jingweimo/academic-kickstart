@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Dr. Jiajun Xu for embarking on a new faculty position at Nanjing Agricultural University in China! Two-year postdoc work has yielded 7 journal publications and two more manuscripts line up. Well-deserved success!!
+title: Congratulations to Dr. Jiajun Xu for embarking on a new faculty position at Nanjing Agricultural University in China! Two-year postdoctoral work has yielded 7 journal publications and two more manuscripts line up. Well-deserved success!! 👋👋
 subtitle: 
 
 # Summary for listings and search engines
