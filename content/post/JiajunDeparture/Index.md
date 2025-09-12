@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Jiajun for embarking on a new faculty position at Nanjing Agricultural University in China! 👋👋 2-year postdoctoral work has yielded 7 journal publications and 2 more manuscripts line up. Well-deserved success!! Dedication and hardwork have truly paid off. Best wishes for his new career. 
+title: Congratulations to Jiajun for embarking on a new faculty position at Nanjing Agricultural University in China! 👋👋 2-year postdoctoral work has yielded 7 journal publications and 2 more manuscripts lined up. Well-deserved success!! Dedication and hardwork have truly paid off. Best wishes for his new career. 
 subtitle: 
 
 # Summary for listings and search engines
