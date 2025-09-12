@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiajun Xu
+title: Jiajun Xu (postdoc, 10/2023 - 09/2025)
 name: Jiajun Xu
 
 # Username (this should match the folder name)
@@ -75,6 +75,6 @@ email: "jilinxujiajun@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Postdocs
+  - Alumni
 # - Visitors
 ---
