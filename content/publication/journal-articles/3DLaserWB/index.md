@@ -1,5 +1,5 @@
 ---
-title: "A New Laser Profiling System for Online, Real-Time Detection of Broiler Breast Fillets with Woody Breast"
+title: "Proof-of-Concept Evaluation of A 3D Laser Profiling System Prototype for Real-Time Woody Breast Detection in Broiler Breast Fillets"
 authors: 
 - J. Zhang
 - Y. Lu
