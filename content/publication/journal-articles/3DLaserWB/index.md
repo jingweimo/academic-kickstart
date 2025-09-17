@@ -4,7 +4,7 @@ authors:
 - J. Zhang
 - Y. Lu
 date: "2025-09-15"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-15T01:00:00Z"
@@ -20,7 +20,7 @@ publication: "Journal of Food Engineering (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375524000789
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0260877425003553
 # url_dataset: https://zenodo.org/records/11200576
 url_code: https://github.com/CharmingZh/3DLaserPoultry
 
