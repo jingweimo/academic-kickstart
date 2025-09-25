@@ -17,7 +17,7 @@ publishDate: "2025-09-25T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv Preprint (in press)"
+publication: "arXiv Preprint No. 6823559"
 
 # abstract: 
 # links:
