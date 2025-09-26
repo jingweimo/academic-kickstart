@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - B. Deng
 date: "2025-09-125"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+doi: "https://doi.org/10.48550/arXiv.2509.20580"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-09-25T01:00:00Z"
