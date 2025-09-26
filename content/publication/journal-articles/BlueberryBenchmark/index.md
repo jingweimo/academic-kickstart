@@ -21,7 +21,7 @@ publication: "arXiv Preprint No. 6823559"
 
 # abstract: 
 # links:
-url_pdf: https://www.researchgate.net/publication/395801599_A_Comparative_Benchmark_of_Real-time_Detectors_for_Blueberry_Detection_towards_Precision_Orchard_Management
+url_pdf: https://arxiv.org/abs/2509.20580
 # url_dataset: https://zenodo.org/records/11200576
 url_code: https://github.com/rogermu789/BlueberryBenchmark
 
