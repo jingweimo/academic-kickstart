@@ -1,7 +1,7 @@
 ---
 title: "3D Vision-based Perception and Length Estimation of Green Asparagus for Selective Harvesting"
 authors: 
-- J. Xu
+- Jiajun Xu
 - Y. Lu
 date: "2025-01-03"
 doi: "https://doi.org/10.13031/ja.16309"
