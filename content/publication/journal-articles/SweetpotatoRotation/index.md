@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Sweetpotato Rotation Behavior and Full-Surface Imaging on A Roller-Conveyor-Based Machine Vision System"
 authors: 
-- J. Xu
+- Jiajun Xu
 - Y. Lu
 date: "2025-07-18"
 # doi: "https://doi.org/10.1016/j.atech.2022.100126"
