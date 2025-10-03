@@ -3,5 +3,5 @@ title: Developing an Automated Preparation Technology for Individually Quick-Fro
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
-date: "2024-10-18T00:00:00Z"
+date: "2025-10-01T00:00:00Z"
 ---
