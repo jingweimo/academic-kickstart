@@ -1,5 +1,5 @@
 ---
-title: We are receiving new internally competitive funding ($50,000) from the MSU Discretionary Funding Initiative (DFI) on innovative poultry quality imaging. Stay tuned to our research ouput.
+title: We are receiving new internally competitive funding ($50,000) from the MSU Discretionary Funding Initiative for our research on innovative poultry quality imaging. Stay tuned to our research ouput.
 subtitle: 
 
 # Summary for listings and search engines
