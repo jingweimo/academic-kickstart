@@ -4,7 +4,7 @@ authors:
 - Tianci Guo
 - Sijie Zhou
 - Jiangbo Li
-- Yuzhen Lu
+- Y. Lu
 date: "2025-10-22"
 # doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
 
