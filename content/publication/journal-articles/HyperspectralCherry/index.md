@@ -16,7 +16,7 @@ publishDate: "2025-11-07T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Food Engineering (submitted)"
+publication: "Food and Bioprocess Technology (submitted)"
 
 # abstract: 
 # links:
