@@ -4,7 +4,7 @@ authors:
 - B. Deng
 - Y. Lu
 date: "2025-11-13"
-doi: "https://doi.org/10.1117/12.3052285"
+doi: "https://doi.org/10.3390/agriengineering7110389"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-13T01:00:00Z"
@@ -16,11 +16,11 @@ publishDate: "2025-11-13T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AgriEngineering (in press)"
+publication: "AgriEngineering 7(11), 389"
 
 # abstract: 
 # links:
-# url_pdf: https://elibrary.asabe.org/abstract.asp?aid=55083
+url_pdf: https://www.mdpi.com/2624-7402/7/11/389
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
 
