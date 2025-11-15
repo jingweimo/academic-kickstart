@@ -2,7 +2,7 @@
 title: "Development and Preliminary Evaluation of Automatic Selective Harvesting Mechanisms of Green Asparagus"
 
 authors:
-- N. Singh
+- Naseeb Singh
 - Y. Lu
 date: "2025-11-14"
 # doi: https://doi.org/10.1016/j.compag.2025.110744
