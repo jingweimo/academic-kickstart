@@ -1,5 +1,5 @@
 ---
-title: Poultry Quality Assessment by Light Scattering Imaging (2023-2025, M-AAA, $146,792)
+title: Poultry Quality Assessment by Light Scattering Imaging (2023-2025, M-AAA, $146,792, Completed)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
