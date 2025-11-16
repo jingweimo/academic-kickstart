@@ -22,6 +22,6 @@ publication: "AgriEngineering 7(11), 389"
 # links:
 url_pdf: https://www.mdpi.com/2624-7402/7/11/389
 # url_dataset: https://zenodo.org/records/11200576
-# url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
+url_code: https://github.com/AgFood-Sensing-and-Intelligence-Lab/IP-Adapter-for-Weed-Detection
 
 ---
