@@ -4,11 +4,11 @@ authors:
 - B. Deng
 - Y. Lu
 - Daniel Brainard
-date: "2025-02-14"
+date: "2025-11-24"
 # doi: "https://doi.org/10.1016/j.atech.2022.100126"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-14T01:00:00Z"
+publishDate: "2025-11-24T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2025-02-14T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Field Robotics (under review)"
+publication: "Journal of Field Robotics (in press)"
 
 # abstract: 
 # links:
