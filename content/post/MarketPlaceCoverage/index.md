@@ -1,5 +1,5 @@
 ---
-title: Our poultry woody breast imaging research was covered by Marketplace
+title: Our poultry woody breast imaging research was covered by Marketplace (https://www.marketplace.org/)
 subtitle: Check the press article at https://www.marketplace.org/story/2025/11/24/heres-why-you-might-be-encountering-woody-chicken-abnormal-breast-meat-thats-tough-to-chew) 
 
 # Summary for listings and search engines
