@@ -1,6 +1,6 @@
 ---
-title: Our poultry woody breast imaging research was covered by Marketplace https://www.marketplace.org/story/2025/11/24/heres-why-you-might-be-encountering-woody-chicken-abnormal-breast-meat-thats-tough-to-chew
-# subtitle: Harvester makes sort work in the orchard https://www.goodfruit.com/harvester-makes-sort-work-in-the-orchard/ 
+title: Our poultry woody breast imaging research was covered by Marketplace
+subtitle: You’re not imagining it: There’s a reason some chicken breasts are tough to chew (https://www.marketplace.org/story/2025/11/24/heres-why-you-might-be-encountering-woody-chicken-abnormal-breast-meat-thats-tough-to-chew) 
 
 # Summary for listings and search engines
 summary: 
