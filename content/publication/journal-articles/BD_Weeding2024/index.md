@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - Daniel Brainard
 date: "2025-11-24"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+doi: "https://doi.org/10.1002/rob.70132"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-24T01:00:00Z"
