@@ -20,7 +20,7 @@ publication: "Food Bioscience (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.researchgate.net/profile/Yuzhen-Lu-2/publication/394965335_Improvements_and_Evaluation_of_a_Smart_Sprayer_Prototype_for_Weed_Control_in_Vegetable_Crops/links/68adb1712c7d3e0029b39a58/Improvements-and-Evaluation-of-a-Smart-Sprayer-Prototype-for-Weed-Control-in-Vegetable-Crops.pdf
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S221242922502379X?via%3Dihub
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
 
