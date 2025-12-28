@@ -16,7 +16,7 @@ publishDate: "2025-12-27T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Food Bioscience 108201"
+publication: "Food Bioscience, 108201"
 
 # abstract: 
 # links:
