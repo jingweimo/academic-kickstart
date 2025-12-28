@@ -4,7 +4,7 @@ authors:
 - Naseeb
 - Y. Lu
 date: "2025-12-27"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+# doi: "https://doi.org/10.1016/j.fbio.2025.108201"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-27T01:00:00Z"
