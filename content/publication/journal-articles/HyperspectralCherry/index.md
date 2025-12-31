@@ -16,12 +16,12 @@ publishDate: "2025-12-27T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Food Bioscience, 108201"
+publication: "Food Bioscience 75, 108201"
 
 # abstract: 
 # links:
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S221242922502379X?via%3Dihub
 # url_dataset: https://zenodo.org/records/11200576
-# url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
+url_code: https://github.com/AgFood-Sensing-and-Intelligence-Lab/cherry-pit-detetction-HSI
 
 ---
