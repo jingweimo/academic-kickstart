@@ -16,7 +16,7 @@ publishDate: "2025-12-05T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (submitted to journal)"
+publication: "Journal of Food Engineering (submitted to journal)"
 
 # abstract: 
 # links:
