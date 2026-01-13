@@ -4,11 +4,11 @@ authors:
 - J. Zhang
 - Y. Lu
 - Jiajun Xu
-date: "2025-12-31"
+date: "2026-01-01"
 # doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-12-31T01:00:00Z"
+publishDate: "2026-01-01T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
