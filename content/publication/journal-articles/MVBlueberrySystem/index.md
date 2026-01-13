@@ -8,7 +8,7 @@ date: "2026-01-01"
 # doi: "https://doi.org/10.13031/aea.16247"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-19T01:00:00Z"
+publishDate: "2026-01-01T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
