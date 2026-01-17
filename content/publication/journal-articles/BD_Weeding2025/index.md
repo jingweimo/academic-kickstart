@@ -4,8 +4,8 @@ authors:
 - B. Deng
 - Y. Lu
 - Daniel Brainard
-date: "2025-12-20"
-# doi: "https://doi.org/10.1016/j.atech.2022.100126"
+date: "2026-01-16"
+doi: "10.13031/ja.16539"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-20T01:00:00Z"
