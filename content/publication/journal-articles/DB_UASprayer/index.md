@@ -1,5 +1,5 @@
 ---
-title: "Field Test and Evaluation of an Integrated Micro-Dosing Smart Sprayer 1 for Precision Weeding in Vegetables"
+title: "Field Test and Evaluation of an Integrated Micro-Dosing Smart Sprayer for Precision Weeding in Vegetables"
 
 authors:
 - B. Deng
