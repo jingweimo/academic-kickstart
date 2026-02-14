@@ -17,7 +17,7 @@ publishDate: "2026-02-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Food Engineering (submitted to journal)"
+publication: "LWT (submitted to journal)"
 
 
 # abstract: 
