@@ -4,11 +4,11 @@ authors:
 - J. Zhang
 - Y. Lu
 - Jiajun Xu
-date: "2026-01-01"
+date: "2026-02-20"
 # doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-01T01:00:00Z"
+publishDate: "2026-02-20T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2026-01-01T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Data in Brief (under review)"
+publication: "Data in Brief (in press)"
 
 # abstract: 
 # links:
