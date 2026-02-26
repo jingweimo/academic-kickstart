@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - Jiajun Xu
 date: "2026-02-20"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+doi: "https://doi.org/10.1016/j.dib.2026.112628"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-02-20T01:00:00Z"
@@ -21,8 +21,8 @@ publication: "Data in Brief (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0260877425003553
-# url_dataset: https://zenodo.org/records/11200576
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2352340926001812
+url_dataset: https://zenodo.org/records/18100484
 # url_code: https://github.com/CharmingZh/3DLaserPoultry
 
 ---
