@@ -17,7 +17,7 @@ publishDate: "2025-12-20T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of the ASABE (in press)"
+publication: "Journal of the ASABE  69 (1), 149-163"
 
 # abstract: 
 # links:
