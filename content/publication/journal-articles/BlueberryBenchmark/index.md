@@ -1,14 +1,14 @@
 ---
-title: "A Comparative Benchmark of Real-time Detectors for Blueberry Detection towards Precision Orchard Management"
+title: "A Comparative Benchmark of Real-time Detectors for Blueberry Detection toward Precision Orchard Management"
 authors: 
 - X. Mu
 - Y. Lu
 - B. Deng
-date: "2025-09-125"
+date: "2026-03-02"
 doi: "https://doi.org/10.48550/arXiv.2509.20580"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-25T01:00:00Z"
+publishDate: "2026-03-02T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2025-09-25T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv Preprint No. 6823559"
+publication: "Precision Agriculture (submitted to journal)"
 
 # abstract: 
 # links:
