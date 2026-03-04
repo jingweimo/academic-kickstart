@@ -6,7 +6,7 @@ authors:
 - Zhikun Kong
 - Jiajun Xu
 date: "2026-02-20"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+doi: "https://doi.org/10.1016/j.dib.2026.112644"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-02-24T01:00:00Z"
@@ -22,8 +22,8 @@ publication: "Data in Brief (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0260877425003553
-# url_dataset: https://zenodo.org/records/11200576
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2352340926001976?via%3Dihub
+url_dataset: https://doi.org/10.5281/zenodo.18378019
 # url_code: https://github.com/CharmingZh/3DLaserPoultry
 
 ---
