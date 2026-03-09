@@ -17,7 +17,7 @@ publishDate: "2026-03-02T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Precision Agriculture (submitted to journal)"
+publication: "Sensor (to be submitted)"
 
 # abstract: 
 # links:
