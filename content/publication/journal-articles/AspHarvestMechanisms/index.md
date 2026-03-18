@@ -5,7 +5,7 @@ authors:
 - Naseeb Singh
 - Y. Lu
 date: "2026-03-17"
-# doi: https://doi.org/10.1016/j.compag.2025.110744
+doi: https://doi.org/10.1016/j.atech.2026.102022
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-03-17T00:00:00Z"
@@ -23,6 +23,6 @@ publication: "Smart Agricultural Technology (in press)"
 # abstract: 
 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169925008506
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375526002455
 
 ---
