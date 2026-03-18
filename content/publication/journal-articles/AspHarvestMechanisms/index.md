@@ -1,14 +1,14 @@
 ---
-title: "Development and Preliminary Evaluation of Automatic Selective Harvesting Mechanisms of Green Asparagus"
+title: "Development and Laboratory Evaluation of Automatic Selective Harvesting Mechanisms of Green Asparagus"
 
 authors:
 - Naseeb Singh
 - Y. Lu
-date: "2025-11-14"
+date: "2026-03-17"
 # doi: https://doi.org/10.1016/j.compag.2025.110744
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-11-14T00:00:00Z"
+publishDate: "2026-03-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2025-11-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agricultural Technology (under review)"
+publication: "Smart Agricultural Technology (in press)"
 
 
 # abstract: 
