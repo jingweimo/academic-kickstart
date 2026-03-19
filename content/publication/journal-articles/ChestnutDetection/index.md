@@ -1,5 +1,5 @@
 ---
-title: "Detection of On-Ground Chestnuts Using Artificial Intelligence Toward Automated Picking"
+title: "Artificial Intelligence-Based Detection of On-Ground Chestnuts Toward Automated Picking"
 authors: 
 - Kaixuan Fang
 - Y. Lu
