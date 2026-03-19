@@ -5,7 +5,7 @@ authors:
 - Y. Lu
 - Xinyang Mu
 date: "2026-03-19"
-# doi: "https://doi.org/10.3390/agriengineering8030116"
+doi: "https://doi.org/10.3390/agriengineering8030116"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-03-19T01:00:00Z"
