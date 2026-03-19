@@ -4,11 +4,11 @@ authors:
 - Kaixuan Fang
 - Y. Lu
 - Xinyang Mu
-date: "2026-03-16"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+date: "2026-03-19"
+# doi: "https://doi.org/10.3390/agriengineering8030116"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-03-16T01:00:00Z"
+publishDate: "2026-03-19T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,12 +17,12 @@ publishDate: "2026-03-16T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AgriEngineering (in press)"
+publication: "AgriEngineering 8(3), 116"
 
 # abstract: 
 # links:
-url_pdf: https://arxiv.org/abs/2602.14140
-# url_dataset: https://zenodo.org/records/11200576
+url_pdf: https://www.mdpi.com/2624-7402/8/3/116
+url_dataset: https://zenodo.org/records/19052604
 url_code: https://github.com/AgFood-Sensing-and-Intelligence-Lab/ChestnutDetection
 
 ---
