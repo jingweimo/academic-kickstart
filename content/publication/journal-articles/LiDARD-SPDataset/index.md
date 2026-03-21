@@ -18,7 +18,7 @@ publishDate: "2026-02-24T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Data in Brief (in press)"
+publication: "Data in Brief 66, 112644"
 
 # abstract: 
 # links:
