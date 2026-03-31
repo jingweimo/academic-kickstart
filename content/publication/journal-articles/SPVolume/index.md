@@ -18,7 +18,7 @@ publishDate: "2026-03-04T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence in Agriculture (submitted to journal)"
+publication: "Food Bioscience (submitted to journal)"
 
 # abstract: 
 # links:
