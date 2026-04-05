@@ -4,11 +4,11 @@ title: "Hyperspectral Scattering Imaging for Assessing Woody Breast Conditions i
 authors:
 - Xinyang Mu
 - Y. Lu
-date: "2026-02-12"
-# doi: https://doi.org/10.1016/j.compag.2025.110744
+date: "2026-04-05"
+doi: https://doi.org/10.1016/j.lwt.2026.119355
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-02-12T00:00:00Z"
+publishDate: "2026-04-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,6 +23,6 @@ publication: "LWT (in press)"
 # abstract: 
 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169925008506
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0023643826003658
 
 ---
