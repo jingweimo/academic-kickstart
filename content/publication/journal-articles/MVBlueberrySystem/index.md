@@ -1,14 +1,14 @@
 ---
-title: "Development of a Ground-Based Machine Vision System for Blueberry Maturity Assessment and Yield Estimation"
+title: "Development of a Ground-Based Machine Vision System for Bush-Level Blueberry Maturity Assessment and Yield Estimation"
 authors: 
 - X. Mu
 - Y. Lu
 - Sidhaant Vivek Bhatt
-date: "2026-01-01"
+date: "2026-04-05"
 # doi: "https://doi.org/10.13031/aea.16247"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-01T01:00:00Z"
+publishDate: "2026-04-05T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
