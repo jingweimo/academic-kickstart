@@ -17,7 +17,7 @@ publishDate: "2026-04-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "LWT (in press)"
+publication: "LWT 247, 119355"
 
 
 # abstract: 
