@@ -1,5 +1,5 @@
 ---
-title: Enhancing autonomy and precision for improved mechanical weed management in vegetable crops [2026-2028, MSU Project GREEEN, $123,000 (PI: Dr Daniel Morris)]
+title: Enhancing autonomy and precision for improved mechanical weed management in vegetable crops (2026-2028, MSU Project GREEEN, $123,000) (PI: Dr. Daniel Morris)
 # summary: An example of using the in-built project page.
 # tags:
 # - Deep Learning
