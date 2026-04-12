@@ -5,11 +5,11 @@ authors:
 - Sijie Zhou
 - Jiangbo Li
 - Y. Lu
-date: "2025-10-22"
+date: "2026-04-12"
 # doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-10-22T01:00:00Z"
+publishDate: "2026-04-12T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publishDate: "2025-10-22T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications (under review)"
+publication: "Measurement (in press)"
 
 # abstract: 
 # links:
