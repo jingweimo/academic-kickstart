@@ -76,4 +76,4 @@ I am actively looking for motivated PhD (and or MS) graduate students to start i
 
 In additon, I also have Postdoc positions focusing on on-farm automation for specialty crops. The position can be started in Summer 2026. Qualifications for this position include demonstrated experience in machine/computer vision, hardware prototyping, sensors and control, system integration, and strong publication records in engineering journals. 
 
-{{< icon name="download" pack="fas" >}} See the {{< staticref "media/Postdoc04132026.pdf" "newtab" >}} Postdoc position{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} See the {{< staticref "media/Postdoc_04132026.pdf" "newtab" >}} Postdoc position{{< /staticref >}}.
