@@ -6,7 +6,7 @@ authors:
 - Jiangbo Li
 - Y. Lu
 date: "2026-04-12"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+doi: "https://doi.org/10.1016/j.measurement.2026.121504"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-04-12T01:00:00Z"
@@ -22,7 +22,7 @@ publication: "Measurement (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0260877425003553
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0263224126012133
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/CharmingZh/3DLaserPoultry
 
