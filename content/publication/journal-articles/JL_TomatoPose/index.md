@@ -3,8 +3,8 @@ title: "Accurate identification of tomato pose changes during the flexible grabb
 authors: 
 - Tianci Guo
 - Sijie Zhou
-- Jiangbo Li
 - Y. Lu
+- Jiangbo Li
 date: "2026-04-12"
 doi: "https://doi.org/10.1016/j.measurement.2026.121504"
 
