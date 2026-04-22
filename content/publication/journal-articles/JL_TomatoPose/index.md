@@ -18,7 +18,7 @@ publishDate: "2026-04-12T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Measurement (in press)"
+publication: "Measurement 276, 121504"
 
 # abstract: 
 # links:
