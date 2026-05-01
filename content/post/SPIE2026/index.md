@@ -1,5 +1,5 @@
 ---
-title: We delievered 11 presentations (10 oral and 1 poster) on the 2026 SPIE Defense + Security Conference (National Harbor, Maryland). 
+title: We delievered 11 presentations (10 oral and 1 poster) at the 2026 SPIE Defense + Security Conference (National Harbor, Maryland). 
 subtitle: 
 
 # Summary for listings and search engines
