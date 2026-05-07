@@ -3,7 +3,7 @@ title: Two of our papers published in the Journal of the ASABE have been selecte
 subtitle: Congratulations to Jiaxu and Jiajun on this outstanding achievement and their excellent work!
 
 # Summary for listings and search engines
-# summary: "
+summary: "Congratulations to Jiaxu and Jiajun on this outstanding achievement and their excellent work!"
 
 # Link this post with a project
 projects: []
