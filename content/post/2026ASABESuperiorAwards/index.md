@@ -1,6 +1,6 @@
 ---
 title: Two of our papers published in the Journal of the ASABE have been selected to receive the 2026 ASABE (American Society of Agricultural and Biological Engineers) Superior Paper Award. 👋👋
-subtitle: Congratulations to Jiaxu and Jiajun on this outstanding achievement and their excellent work!
+subtitle: 
 
 # Summary for listings and search engines
 summary: "Congratulations to Jiaxu and Jiajun on this outstanding achievement and their excellent work!"
