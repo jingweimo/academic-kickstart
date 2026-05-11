@@ -4,7 +4,7 @@ authors:
 - Jiajun Xu
 - Y. Lu
 date: "2026-05-09"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+# doi: "https://doi.org/10.1016/j.atech.2026.102204"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-05-09T01:00:00Z"
@@ -20,7 +20,7 @@ publication: "Smart Agricultural Technology (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0260877425003553
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375526004247
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/CharmingZh/3DLaserPoultry
 
