@@ -4,7 +4,7 @@ authors:
 - Jiajun Xu
 - Y. Lu
 date: "2026-05-09"
-# doi: "https://doi.org/10.1016/j.atech.2026.102204"
+doi: "https://doi.org/10.1016/j.atech.2026.102204"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-05-09T01:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2026-05-09T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agricultural Technology (in press)"
+publication: "Smart Agricultural Technology 14, 102204"
 
 # abstract: 
 # links:
