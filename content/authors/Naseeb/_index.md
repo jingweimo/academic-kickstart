@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Naseeb Singh
+title: Naseeb Singh (postdoc, 04/2025 - 05/2026)
 name: Naseeb Singh
 
 # Username (this should match the folder name)
@@ -75,6 +75,6 @@ email: "naseeb501@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - Postdocs
+ - Alumni
 # - Visitors
 ---
