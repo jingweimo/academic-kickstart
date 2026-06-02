@@ -5,8 +5,8 @@ authors:
 - Y. Lu
 - Yuyuan Tian
 - Khairul Islam
-date: "2026-05-27"
-# doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
+date: "2026-06-02"
+doi: "https://doi.org/10.1016/j.fbio.2026.109164"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-05-27T01:00:00Z"
@@ -22,7 +22,7 @@ publication: "Food Bioscience (in press)"
 
 # abstract: 
 # links:
-# url_pdf: https://arxiv.org/abs/2602.14140
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S2212429226009363
 # url_dataset: https://zenodo.org/records/11200576
 # url_code: https://github.com/AgFood-Sensing-and-Intelligence-Lab/ChestnutDetection
 
