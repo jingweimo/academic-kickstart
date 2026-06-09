@@ -18,7 +18,7 @@ publishDate: "2026-05-27T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Food Bioscience (in press)"
+publication: "Food Bioscience 81, 109164"
 
 # abstract: 
 # links:
