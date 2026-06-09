@@ -1,7 +1,7 @@
 ---
 title: "Non-destructive Detection of Pits in Cherries using Shortwave Infrared Hyperspectral Transmittance Imaging"
 authors: 
-- Naseeb
+- Naseeb Singh
 - Y. Lu
 date: "2025-12-27"
 doi: "https://doi.org/10.1016/j.fbio.2025.108201"
