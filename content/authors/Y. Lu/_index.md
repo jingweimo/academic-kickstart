@@ -61,6 +61,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yuzhen_Lu
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AgFood-Sensing-and-Intelligence-Lab
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jingweimo89
