@@ -7,11 +7,11 @@ authors:
 - Michael Lavagnino
 - John McIntyre
 - Y. Lu
-date: "2026-06-26"
+date: "2026-07-03"
 # doi: "https://doi.org/10.1016/j.jfoodeng.2025.112820"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-06-26T01:00:00Z"
+publishDate: "2026-07-03T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publishDate: "2026-06-26T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications (submitted)"
+publication: "Agricultural Communications (under review)"
 
 # abstract: 
 # links:
