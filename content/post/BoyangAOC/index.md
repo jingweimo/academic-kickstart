@@ -9,16 +9,16 @@ summary: " "
 projects: []
 
 # Date published
-date: "2025-07-18T00:00:00Z"
+date: "2026-07-14T00:00:00Z"
 
 # Date updated
-lastmod: "2025-07-18T00:00:00Z"
+lastmod: "2026-07-14T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
