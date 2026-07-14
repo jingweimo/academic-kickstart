@@ -3,7 +3,7 @@ title: Congratulations to Boyang Deng for receiving the 2026 Graduate Scholarly 
 subtitle: 
 
 # Summary for listings and search engines
-summary: "Stay tuned to our conference papers to be posted by the ASABE soon."
+summary: " "
 
 # Link this post with a project
 projects: []
