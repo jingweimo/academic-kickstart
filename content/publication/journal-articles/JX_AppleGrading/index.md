@@ -4,11 +4,11 @@ title: "A Machine Vision-Based Online Apple Grading System toward Infield Sortin
 authors:
 - Jiajun Xu
 - Y. Lu
-date: "2026-01-25"
+date: "2026-07-22"
 # doi: https://doi.org/10.1016/j.compag.2025.110744
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-01-25T00:00:00Z"
+publishDate: "2026-07-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2026-01-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of the ASABE (under review)"
+publication: "Journal of the ASABE (in press)"
 
 
 # abstract: 
