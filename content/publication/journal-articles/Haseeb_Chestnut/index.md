@@ -19,12 +19,12 @@ publishDate: "2026-07-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications (in press)"
+publication: "Agricultural Communications (submitted to journal)"
 
 
 # abstract: 
 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169925008506
+url_pdf: https://www.researchgate.net/profile/Yuzhen-Lu-2/publication/407524590_Automated_Chestnut_Grading_by_Multispectral_Vision_and_Deep_Learning/links/6a3a736b68552924bb01bde5/Automated-Chestnut-Grading-by-Multispectral-Vision-and-Deep-Learning.pdf
 
 ---
