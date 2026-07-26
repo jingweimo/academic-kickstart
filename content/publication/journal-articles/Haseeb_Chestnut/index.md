@@ -19,7 +19,7 @@ publishDate: "2026-07-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Agricultural Communications (submitted to journal)"
+publication: "Food Bioscience (submitted to journal)"
 
 
 # abstract: 
