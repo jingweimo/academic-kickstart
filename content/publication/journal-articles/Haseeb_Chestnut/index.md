@@ -1,5 +1,5 @@
 ---
-title: "Automated Chestnut Grading by Multispectral Vision and Deep Learning"
+title: "ChestnutYOLO: A Multispectral Deep Learning Framework for Automated Online Chestnut Grading"
 
 authors:
 - H. Amjad
@@ -19,7 +19,7 @@ publishDate: "2026-07-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Food Bioscience (submitted to journal)"
+publication: "Biosystems Engineering (submitted to journal)"
 
 
 # abstract: 
