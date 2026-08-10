@@ -6,8 +6,8 @@ authors:
 - Y. Lu
 - Mark Siemens
 - Daniel Brainard
-date: "2026-07-25"
-# doi: https://doi.org/10.1016/j.compag.2025.110744
+date: "2026-08-10"
+doi: https://doi.org/10.1007/s11119-026-10425-7
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-07-25T00:00:00Z"
@@ -19,12 +19,12 @@ publishDate: "2026-07-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Precision Agriculture (in press)"
+publication: "Precision Agriculture 27, 124"
 
 
 # abstract: 
 
 # links:
-# url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169925008506
+url_pdf: https://link.springer.com/article/10.1007/s11119-026-10425-7
 
 ---
