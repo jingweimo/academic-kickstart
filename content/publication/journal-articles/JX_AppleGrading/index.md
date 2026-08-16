@@ -4,8 +4,8 @@ title: "A Machine Vision-Based Online Apple Grading System toward Infield Sortin
 authors:
 - Jiajun Xu
 - Y. Lu
-date: "2026-07-22"
-# doi: https://doi.org/10.1016/j.compag.2025.110744
+date: "2026-08-12"
+doi: https://doi.org/10.13031/ja.16670
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-07-22T00:00:00Z"
