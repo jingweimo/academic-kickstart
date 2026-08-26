@@ -5,7 +5,7 @@ authors:
 - Boyang Deng
 - Y. Lu
 date: "2026-08-24"
-# doi: https://doi.org/10.1016/j.atech.2026.102022
+doi: https://doi.org/10.1016/j.atech.2026.102512
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-08-24T00:00:00Z"
@@ -23,5 +23,5 @@ publication: "Smart Agricultural Technology (in press)"
 # abstract: 
 
 # links:
-# url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375526007379
 ---
