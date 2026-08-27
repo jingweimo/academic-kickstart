@@ -6,7 +6,7 @@ authors:
 - Y. Lu
 - Y. Tian
 - Naseeb Singh
-date: "2026-07-19"
+date: "2026-08-23"
 # doi: https://doi.org/10.1016/j.compag.2025.110744
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: "2026-07-19T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biosystems Engineering (submitted to journal)"
+publication: "Biosystems Engineering (under review)"
 
 
 # abstract: 
