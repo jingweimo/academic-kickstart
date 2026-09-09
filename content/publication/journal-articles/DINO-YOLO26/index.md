@@ -16,7 +16,7 @@ publishDate: "2026-08-18T01:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (in press)"
+publication: "Computers and Electronics in Agriculture 255, 112344"
 
 # abstract: 
 # links:
