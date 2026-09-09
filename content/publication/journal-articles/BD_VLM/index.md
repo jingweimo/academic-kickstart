@@ -17,7 +17,7 @@ publishDate: "2026-08-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Smart Agricultural Technology (in press)"
+publication: "Smart Agricultural Technology 15, 102512"
 
 
 # abstract: 
