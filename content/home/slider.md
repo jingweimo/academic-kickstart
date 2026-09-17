@@ -17,6 +17,15 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  # title = "2026MidwestPhysicalWeedControlFieldDay"
+  content = "Demo at the 2026 Midwest Physical Weed Control Field Day"
+  align = "center"
+
+  # overlay_color = "#FFFF00"  # An HTML color value.
+  overlay_img = "2026WeedingDemo.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
+[[item]]
   # title = "2026AIMASABEAards"
   content = "ASABE 2026 AIM in Indianapolis, IN"
   align = "center"
