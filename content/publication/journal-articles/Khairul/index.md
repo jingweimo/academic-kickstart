@@ -8,7 +8,7 @@ authors:
 - Daniel Brainard
 - Ajit Srivastava
 date: "2026-09-23"
-doi: https://doi.org/10.1016/j.atech.2026.102512
+# doi: https://doi.org/10.1016/j.atech.2026.102512
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-09-23T00:00:00Z"
@@ -26,5 +26,5 @@ publication: "Smart Agricultural Technology (under review)"
 # abstract: 
 
 # links:
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375526007379
+# url_pdf: https://www.sciencedirect.com/science/article/pii/S2772375526007379
 ---
