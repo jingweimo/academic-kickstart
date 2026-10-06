@@ -1,5 +1,5 @@
 ---
-title: Congratulations on the U.S. patent granted! 👋👋
+title: Congratulations on the U.S. patent grant for “Automated Foodstuff Singulation System”! 👋👋
 subtitle: 
 
 # Summary for listings and search engines
