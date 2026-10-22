@@ -1,13 +1,13 @@
 ---
-title: "Evaluation of Sweetpotato Rotation Behavior and Full-Surface Imaging on A Roller-Conveyor-Based Machine Vision System"
+title: "Quantifying Rotation Dynamics of Sweetpotatoes for Full-Surface Inspection in Roller Conveyor-Based Machine Vision"
 authors: 
 - Jiajun Xu
 - Y. Lu
-date: "2025-07-18"
+date: "2026-10-20"
 # doi: "https://doi.org/10.1016/j.atech.2022.100126"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-07-18T01:00:00Z"
+publishDate: "2026-10-20T01:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2025-07-18T01:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biosystems Engineering (under review)"
+publication: "Journal of Food Process Engineering (submitted)"
 
 # abstract: 
 # links:
