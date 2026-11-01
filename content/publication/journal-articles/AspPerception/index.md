@@ -4,11 +4,11 @@ title: "RGB-D Perception for Selective Harvesting of Field-Grown Asparagus with 
 authors:
 - Dongyu Liu
 - Y. Lu
-date: "2026-04-23"
+date: "2026-11-01"
 # doi: https://doi.org/10.1016/j.atech.2026.102022
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-04-23T00:00:00Z"
+publishDate: "2026-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publishDate: "2026-04-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (under review)"
+publication: "Computers and Electronics in Agriculture (in press)"
 
 
 # abstract: 
