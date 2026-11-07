@@ -17,7 +17,7 @@ publishDate: "2026-09-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Measurement (submitted)"
+publication: "Measurement: Sensors (submitted)"
 
 
 # abstract: 
