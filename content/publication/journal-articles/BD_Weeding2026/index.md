@@ -1,0 +1,28 @@
+---
+title: "Development and Field Evaluation of a High-Resolution Smart Sprayer for Precision Weed Control in Lettuce Using WeedZap"
+authors: 
+- B. Deng
+- Y. Lu
+- Daniel Brainard
+date: "2026-11-18"
+# doi: "10.13031/ja.16539"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2026-11-18T01:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: "Computers and Electronics in Agriculture (submitted)"
+
+# abstract: 
+# links:
+# url_pdf: https://elibrary.asabe.org/abstract.asp?aid=55717&t=3&dabs=Y&redir=&redirType=
+# url_dataset: https://zenodo.org/records/11200576
+# url_code: https://github.com/vicdxxx/Blueberry-Defect-Detection-by-Hyperspectral-Imaging
+
+---
