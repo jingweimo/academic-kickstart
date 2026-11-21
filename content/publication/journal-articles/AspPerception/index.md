@@ -1,14 +1,14 @@
 ---
-title: "RGB-D Perception for Selective Harvesting of Field-Grown Asparagus with Dual-Path Detection and Point-Cloud-Free Measurement"
+title: "RGB-D Perception for Selective Harvesting of Field-Grown Green Asparagus with Dual-Path Detection and Point-Cloud-Free Measurement"
 
 authors:
 - Dongyu Liu
 - Y. Lu
-date: "2026-11-01"
-# doi: https://doi.org/10.1016/j.atech.2026.102022
+date: "2026-11-21"
+doi: 10.1016/j.compag.2026.112652
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-11-01T00:00:00Z"
+publishDate: "2026-11-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,12 +17,11 @@ publishDate: "2026-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers and Electronics in Agriculture (in press)"
+publication: "Computers and Electronics in Agriculture 258, 112652"
 
 
 # abstract: 
 
 # links:
-url_pdf: https://www.researchgate.net/publication/404011705_RGB-D_Perception_for_Selective_Harvesting_of_Field-Grown_Asparagus_with_Dual-Path_Detection_and_Point-Cloud-Free_Measurement
-
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0168169926012500?dgcid=author
 ---
